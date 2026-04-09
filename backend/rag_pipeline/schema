@@ -1,0 +1,84 @@
+CREATE EXTENSION IF NOT EXISTS pgcrypto;
+
+CREATE TABLE IF NOT EXISTS insurers (
+    insurer_id BIGSERIAL PRIMARY KEY,
+    insurer_name TEXT UNIQUE NOT NULL,
+    irdai_registration TEXT,
+    cin TEXT,
+    created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS policies (
+    policy_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    insurer_id BIGINT NOT NULL REFERENCES insurers(insurer_id),
+
+    policy_name TEXT NOT NULL,
+    policy_code TEXT NOT NULL DEFAULT '',
+    version TEXT NOT NULL DEFAULT '',
+    effective_date TEXT,
+    policy_type TEXT,
+    document_type TEXT,
+
+    source_file TEXT,
+    extraction_date TEXT,
+    page_count INT,
+
+    raw_json JSONB NOT NULL,
+    coverage_json JSONB,
+    exclusions_json JSONB,
+    sub_limits_json JSONB,
+    additional_benefits_json JSONB,
+    claim_procedures_json JSONB,
+    policy_conditions_json JSONB,
+    premium_payment_json JSONB,
+    discounts_json JSONB,
+    geography_json JSONB,
+    non_disclosure_json JSONB,
+    grievance_json JSONB,
+    non_payable_json JSONB,
+    key_features_json JSONB,
+
+    created_at TIMESTAMPTZ DEFAULT now(),
+
+    CONSTRAINT uq_policy_identity UNIQUE (insurer_id, policy_name, policy_code, version)
+);
+
+CREATE TABLE IF NOT EXISTS policy_plan_variants (
+    policy_id UUID REFERENCES policies(policy_id) ON DELETE CASCADE,
+    variant_name TEXT NOT NULL,
+    PRIMARY KEY (policy_id, variant_name)
+);
+
+CREATE TABLE IF NOT EXISTS policy_facts (
+    fact_id BIGSERIAL PRIMARY KEY,
+    policy_id UUID REFERENCES policies(policy_id) ON DELETE CASCADE,
+    source_section TEXT,
+    fact_path TEXT NOT NULL,
+    fact_key TEXT NOT NULL,
+    value_type TEXT NOT NULL,
+    value_text TEXT,
+    value_num DOUBLE PRECISION,
+    value_bool BOOLEAN,
+    page_number INT,
+    created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE INDEX IF NOT EXISTS idx_policy_facts_policy ON policy_facts(policy_id);
+CREATE INDEX IF NOT EXISTS idx_policy_facts_path ON policy_facts(fact_path);
+CREATE INDEX IF NOT EXISTS idx_policy_facts_tsv
+ON policy_facts USING GIN (
+    to_tsvector('simple', coalesce(fact_path,'') || ' ' || coalesce(value_text,''))
+);
+
+CREATE TABLE IF NOT EXISTS policy_chunks (
+    chunk_uid TEXT PRIMARY KEY,
+    policy_id UUID REFERENCES policies(policy_id) ON DELETE CASCADE,
+    source_section TEXT,
+    json_path TEXT,
+    chunk_text TEXT NOT NULL,
+    page_number INT,
+    metadata JSONB DEFAULT '{}'::jsonb,
+    created_at TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE INDEX IF NOT EXISTS idx_policy_chunks_policy ON policy_chunks(policy_id);

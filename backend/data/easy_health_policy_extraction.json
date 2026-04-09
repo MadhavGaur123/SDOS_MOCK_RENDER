@@ -1,0 +1,1272 @@
+{
+  "source_file": "easy-health.pdf",
+  "extraction_date": "2026-02-08T00:00:00",
+  "page_count": 46,
+  "basic_info": {
+    "insurer_name": "HDFC ERGO General Insurance Company Limited",
+    "policy_name": "Easy Health",
+    "policy_code": "HDFHLIP25004V082425",
+    "version": "UIN: HDFHLIP25004V082425",
+    "effective_date": "2025-01-01",
+    "policy_type": "Individual/Family Floater",
+    "document_type": "policy_wording",
+    "plan_variants": ["Standard", "Exclusive"],
+    "irdai_registration": "146",
+    "cin": "U66030MH2007PLC177117"
+  },
+  "coverage": {
+    "individual_plan": {
+      "standard_variant": {
+        "sum_insured_options": [
+          100000,
+          150000,
+          200000,
+          250000,
+          300000,
+          400000,
+          500000,
+          750000,
+          1000000,
+          1500000
+        ],
+        "room_rent_limit": "Not explicitly specified - reasonable and customary charges apply",
+        "icu_coverage": "Covered - includes ICU bed, general medical support services, monitoring devices, critical care nursing and intensivist charges",
+        "pre_hospitalization_days": 60,
+        "post_hospitalization_days": 90,
+        "coverage_features": [
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "In-patient Treatment",
+            "is_covered": true,
+            "coverage_limit": "Up to sum insured",
+            "coverage_details": "Hospital room rent/boarding, Nursing, ICU, Medical Practitioners fees, Anesthesia, Blood, Oxygen, Operation theatre, Surgical appliances, Medicines, drugs & consumables, Diagnostic procedures",
+            "notes": "Hospitalization must be medically necessary as per evidence-based medicine guidelines",
+            "page_number": 11
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Pre-Hospitalization Medical Expenses",
+            "is_covered": true,
+            "coverage_limit": "60 days before admission",
+            "coverage_details": "Consultations, investigations and medicines incurred before hospitalization",
+            "notes": null,
+            "page_number": 11
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Post-Hospitalization Medical Expenses",
+            "is_covered": true,
+            "coverage_limit": "90 days after discharge",
+            "coverage_details": "Consultations, investigations and medicines incurred after discharge",
+            "notes": null,
+            "page_number": 11
+          },
+          {
+            "feature_type": "daycare",
+            "feature_name": "Day Care Procedures",
+            "is_covered": true,
+            "coverage_limit": null,
+            "coverage_details": "Medical treatment or surgical procedure under general or local anaesthesia requiring admission < 24 hours",
+            "notes": "Treatment normally taken on out-patient basis not included",
+            "page_number": 11
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Domiciliary Treatment",
+            "is_covered": true,
+            "coverage_limit": "Minimum 3 days treatment",
+            "coverage_details": "Treatment at home when patient cannot be moved to hospital or room not available. Includes pre-hosp 60 days and post-hosp 90 days",
+            "notes": "Coverage only if treatment period greater than 3 days",
+            "page_number": 12
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Organ Donor Expenses",
+            "is_covered": true,
+            "coverage_limit": null,
+            "coverage_details": "Medical and surgical expenses of organ donor for harvesting where insured is recipient",
+            "notes": "Must comply with Transplantation of Human Organs Act 1994. Donor pre and post-hosp expenses not covered. Expenses by insured while donating NOT covered",
+            "page_number": 12
+          },
+          {
+            "feature_type": "ambulance",
+            "feature_name": "Ambulance",
+            "is_covered": true,
+            "coverage_limit": "Rs.2,000 per hospitalization",
+            "coverage_details": "Transportation to hospital in emergency",
+            "notes": "Healthcare/ambulance service provider must be registered with road traffic authority",
+            "page_number": 12
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "AYUSH Benefit",
+            "is_covered": true,
+            "coverage_limit": "Up to sum insured",
+            "coverage_details": "Inpatient care under Ayurveda, Unani, Siddha, Homeopathy, Yoga & Naturopathy at AYUSH Hospital",
+            "notes": "Treatment outside India not covered. Treatment at non-hospital facility not covered",
+            "page_number": 12
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Shared Accommodation",
+            "is_covered": true,
+            "coverage_limit": "Rs.500 per day, max Rs.3,000",
+            "coverage_details": "Payable if hospitalized in shared accommodation at network hospital for each completed 24 hours if hospitalization exceeds 48 hours",
+            "notes": "Not payable for ICU time",
+            "page_number": 13
+          }
+        ]
+      },
+      "exclusive_variant": {
+        "sum_insured_options": [
+          300000,
+          400000,
+          500000,
+          750000,
+          1000000,
+          1500000,
+          2000000,
+          2500000,
+          5000000
+        ],
+        "coverage_features": [
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Shared Accommodation - Exclusive (SI Rs.3-5L)",
+            "is_covered": true,
+            "coverage_limit": "Rs.500 per day, max Rs.3,000",
+            "coverage_details": "Enhanced benefit for shared accommodation",
+            "notes": null,
+            "page_number": 40
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Shared Accommodation - Exclusive (SI Rs.7.5-15L)",
+            "is_covered": true,
+            "coverage_limit": "Rs.800 per day, max Rs.4,800",
+            "coverage_details": "Enhanced benefit for shared accommodation",
+            "notes": null,
+            "page_number": 40
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Shared Accommodation - Exclusive (SI Rs.20-50L)",
+            "is_covered": true,
+            "coverage_limit": "Rs.1,000 per day, max Rs.6,000",
+            "coverage_details": "Enhanced benefit for shared accommodation",
+            "notes": null,
+            "page_number": 40
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Accompanying Insured Child - Exclusive (SI Rs.3-5L)",
+            "is_covered": true,
+            "coverage_limit": "Rs.300 per day, max Rs.9,000",
+            "coverage_details": "For 1 accompanying adult if insured child aged 12 years or less hospitalized for > 72 hours",
+            "notes": "Date of admission and discharge not counted",
+            "page_number": 13
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Accompanying Insured Child - Exclusive (SI Rs.7.5-15L)",
+            "is_covered": true,
+            "coverage_limit": "Rs.500 per day, max Rs.15,000",
+            "coverage_details": "Enhanced benefit",
+            "notes": null,
+            "page_number": 40
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Daily Cash for Accompanying Insured Child - Exclusive (SI Rs.20-50L)",
+            "is_covered": true,
+            "coverage_limit": "Rs.800 per day, max Rs.24,000",
+            "coverage_details": "Enhanced benefit",
+            "notes": null,
+            "page_number": 40
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Newborn Baby Coverage - Exclusive",
+            "is_covered": true,
+            "coverage_limit": "Additional benefit on payment of additional premium",
+            "coverage_details": "Medically necessary treatment while newborn hospitalized. Proposal form must be submitted within 90 days after birth",
+            "notes": "Coverage incepts from date premium received. Applicable only if Maternity benefit opted and claim admitted",
+            "page_number": 13
+          },
+          {
+            "feature_type": "hospitalization",
+            "feature_name": "Recovery Benefit - Exclusive",
+            "is_covered": true,
+            "coverage_limit": "Rs.10,000 lump sum",
+            "coverage_details": "Payable if insured hospitalized as inpatient beyond 10 consecutive continuous days",
+            "notes": "Payable only once per illness/accident per policy year",
+            "page_number": 13
+          },
+          {
+            "feature_type": "ambulance",
+            "feature_name": "Emergency Air Ambulance - Exclusive",
+            "is_covered": true,
+            "coverage_limit": "Rs.2.5 lakhs per hospitalization, upto basic sum insured limit for year",
+            "coverage_details": "Airplane or helicopter transportation for emergency life threatening conditions requiring immediate rapid transport that ground transport cannot provide",
+            "notes": "Treatment required in India only, not overseas. Air ambulance must be registered in India. Return transportation excluded. Available for SI Rs.3L and above",
+            "page_number": 14
+          }
+        ]
+      }
+    },
+    "family_floater_plan": {
+      "standard_variant": {
+        "sum_insured_options": [
+          200000,
+          300000,
+          400000,
+          500000,
+          750000,
+          1000000,
+          1500000
+        ]
+      },
+      "exclusive_variant": {
+        "sum_insured_options": [
+          300000,
+          400000,
+          500000,
+          750000,
+          1000000,
+          1500000,
+          2000000,
+          2500000,
+          5000000
+        ]
+      }
+    },
+    "maternity_coverage": {
+      "standard_variant": {
+        "not_covered": true
+      },
+      "exclusive_variant": {
+        "si_300000_to_500000": {
+          "normal_delivery": 15000,
+          "caesarean_delivery": 25000,
+          "prenatal_postnatal_limit": 1500,
+          "newborn_limit": 2000,
+          "waiting_period_individual": "6 years",
+          "waiting_period_family": "4 years"
+        },
+        "si_750000_to_1500000": {
+          "normal_delivery": 25000,
+          "caesarean_delivery": 40000,
+          "prenatal_postnatal_limit": 2500,
+          "newborn_limit": 3500,
+          "waiting_period_individual": "6 years",
+          "waiting_period_family": "4 years"
+        },
+        "si_2000000_to_5000000": {
+          "normal_delivery": 30000,
+          "caesarean_delivery": 50000,
+          "prenatal_postnatal_limit": 5000,
+          "newborn_limit": 5000,
+          "waiting_period_individual": "4 years",
+          "waiting_period_family": "3 years"
+        }
+      },
+      "conditions": [
+        "Limited to 2 deliveries or terminations during lifetime",
+        "Pre and post-hospitalization expenses not covered under maternity",
+        "Ectopic pregnancy covered under inpatient treatment, not maternity benefit",
+        "Claims only for insured person's spouse, not other dependents"
+      ]
+    },
+    "critical_illness_optional": {
+      "available": true,
+      "critical_illnesses_covered": [
+        "Cancer of specified severity",
+        "Open Chest CABG",
+        "First Heart Attack of specified severity",
+        "Kidney Failure requiring regular dialysis",
+        "Major Organ/Bone Marrow Transplant",
+        "Multiple Sclerosis with Persisting Symptoms",
+        "Permanent Paralysis of Limbs",
+        "Stroke resulting in Permanent Symptoms"
+      ],
+      "sum_insured": "50% or 100% of In-patient Sum Insured, minimum Rs.1 lakh, maximum Rs.10 lakhs",
+      "waiting_period": "90 days from policy commencement (if not previously insured continuously)",
+      "survival_period": "30 days following diagnosis",
+      "maximum_claims": "3 claims under policy or any Easy Health policy",
+      "conditions": "Always provided on individual SI basis irrespective of individual or floater policy",
+      "page_number": 15
+    }
+  },
+  "exclusions": {
+    "exclusions": [
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "30-day Waiting Period - Code Excl03",
+        "description": "Expenses for treatment of any illness within 30 days from first policy commencement",
+        "exception_conditions": "Does not apply for accidents or if insured has continuous coverage for more than 12 months. Applies to enhanced sum insured",
+        "page_number": 19
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Specified Disease/Procedure Waiting Period - Code Excl02",
+        "description": "24 months continuous coverage required for listed conditions/surgeries/treatments",
+        "exception_conditions": "Does not apply for claims due to accident or if underlying cause is cancer. Waiting period reduced by prior coverage under portability/migration. Longer waiting period applies if also under PED waiting. Applies even if contracted after policy",
+        "page_number": 19
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Pre-Existing Diseases - Code Excl01",
+        "description": "36 months continuous coverage required for treatment of pre-existing disease and direct complications",
+        "exception_conditions": "Waiting period reduced by prior coverage under portability/migration. Coverage after 36 months subject to declaration and acceptance. In case of SI enhancement, exclusion applies afresh to enhanced amount",
+        "page_number": 22
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Breach of Law - Code Excl10",
+        "description": "Treatment arising from insured committing or attempting breach of law with criminal intent",
+        "exception_conditions": null,
+        "page_number": 22
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Hazardous or Adventure Sports - Code Excl09",
+        "description": "Treatment necessitated due to participation as professional in hazardous or adventure sports (para-jumping, rock climbing, mountaineering, rafting, motor racing, horse racing, scuba diving, hand gliding, sky diving, deep-sea diving)",
+        "exception_conditions": null,
+        "page_number": 22
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Alcoholism, Drug or Substance Abuse - Code Excl12",
+        "description": "Treatment for alcoholism, drug or substance abuse or any addictive condition and consequences",
+        "exception_conditions": null,
+        "page_number": 22
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Obesity/Weight Control - Code Excl06",
+        "description": "Surgical treatment of obesity unless specific conditions met",
+        "exception_conditions": "Covered if: upon doctor's advice, supported by clinical protocols, member 18+ years, BMI ≥40 or ≥35 with severe co-morbidities (obesity-related cardiomyopathy, coronary heart disease, severe sleep apnea, uncontrolled Type2 Diabetes) after failure of less invasive methods",
+        "page_number": 22
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Refractive Error - Code Excl15",
+        "description": "Treatment for correction of eye sight due to refractive error less than 7.5 dioptres",
+        "exception_conditions": null,
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Cosmetic or Plastic Surgery - Code Excl08",
+        "description": "Expenses for cosmetic or plastic surgery or treatment to change appearance",
+        "exception_conditions": "Covered if for reconstruction following Accident, Burns or Cancer, or as part of medically necessary treatment to remove direct and immediate health risk (must be certified by attending Medical Practitioner)",
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Change-of-Gender Treatments - Code Excl07",
+        "description": "Any treatment including surgical management to change characteristics of body to opposite sex",
+        "exception_conditions": null,
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Unproven Treatments - Code Excl16",
+        "description": "Any unproven treatment, services and supplies lacking significant medical documentation to support effectiveness",
+        "exception_conditions": null,
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Investigation & Evaluation - Code Excl04",
+        "description": "Admission primarily for diagnostics and evaluation purposes only. Diagnostic expenses not related or incidental to current diagnosis and treatment",
+        "exception_conditions": null,
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Rest Cure, Rehabilitation and Respite Care - Code Excl05",
+        "description": "Admission primarily for enforced bed rest, custodial care, and services for terminally ill",
+        "exception_conditions": null,
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Health Hydros, Nature Cure Clinics, Spas - Code Excl13",
+        "description": "Treatments in health hydros, nature cure clinics, spas or similar establishments or private beds attached to such establishments or admission for domestic reasons",
+        "exception_conditions": null,
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Dietary Supplements - Code Excl14",
+        "description": "Dietary supplements and substances purchasable without prescription, including vitamins, minerals and organic substances",
+        "exception_conditions": "Covered if prescribed by medical practitioner as part of hospitalization claim or day care procedure",
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Maternity - Code Excl18",
+        "description": "Medical treatment expenses traceable to childbirth (including complicated deliveries and caesarean sections), miscarriage and lawful medical termination of pregnancy",
+        "exception_conditions": "Ectopic pregnancy covered. Covered to extent provided under Section B.1.3.a) if maternity benefit opted",
+        "page_number": 23
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Sterility and Infertility - Code Excl17",
+        "description": "Any type of contraception, sterilization, assisted reproduction services (IVF, ZIFT, GIFT, ICSI), gestational surrogacy, reversal of sterilization",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Excluded Providers - Code Excl11",
+        "description": "Treatment in hospitals or by providers specifically excluded by insurer and disclosed on website/notified to policyholders",
+        "exception_conditions": "In life threatening situations or following accident, expenses up to stabilization stage payable but not complete claim",
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "War and Related Activities",
+        "description": "Treatment arising from war, invasion, act of foreign enemy, civil war, public defence, rebellion, revolution, insurrection, military or usurped acts, nuclear weapons/materials, chemical and biological weapons, radiation",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Intentional Self Injury",
+        "description": "Intentional self injury or attempted suicide while sane or insane",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Military Operations",
+        "description": "Participation or involvement in naval, military or air force operation",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Prosthetic Devices",
+        "description": "Prosthetic and other devices which are self-detachable/removable without surgery involving anaesthesia",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Treatment Outside India",
+        "description": "Treatment availed outside India",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Non-Hospital Treatment",
+        "description": "Treatment at healthcare facility that is not a Hospital",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Circumcision",
+        "description": "Circumcisions",
+        "exception_conditions": "Covered if necessitated by illness or injury and forming part of treatment",
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Non-Allopathic Treatment",
+        "description": "Any non-allopathic treatment",
+        "exception_conditions": "Covered to extent of AYUSH benefit",
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Outpatient Treatment",
+        "description": "Conditions for which treatment could have been done on outpatient basis without hospitalization",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Preventive Care",
+        "description": "Preventive care, vaccination including inoculation and immunizations",
+        "exception_conditions": "Covered in case of post-bite treatment",
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Hearing Aids, Spectacles, Contact Lenses",
+        "description": "Provision or fitting of hearing aids, spectacles or contact lenses including optometric therapy, treatment for alopecia, baldness, wigs, toupees, medical supplies including elastic stockings, diabetic test strips",
+        "exception_conditions": null,
+        "page_number": 24
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Sleep Apnoea",
+        "description": "Sleep apnoea",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Congenital External Diseases",
+        "description": "Congenital external diseases, defects or anomalies",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Organ Donation by Insured",
+        "description": "Expenses incurred by insured on organ donation",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Spinal Subluxation Treatment",
+        "description": "Treatment and supplies for analysis and adjustments of spinal subluxation, diagnosis and treatment by manipulation of skeletal structure, muscle stimulation except treatment of fractures (excluding hairline fractures) and dislocations of mandible and extremities",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Dental Treatment",
+        "description": "Dental treatment and surgery of any kind",
+        "exception_conditions": "Covered if requiring hospitalization",
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Non-Medical Expenses",
+        "description": "Any non-medical expenses mentioned in List 1 of Annexure I",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Treatment Outside Discipline",
+        "description": "Treatment rendered by Medical Practitioner outside his discipline or the discipline for which he is licensed",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Treatment by Family Member",
+        "description": "Treatments rendered by Medical Practitioner who is member of insured's family or stays with him",
+        "exception_conditions": "Proven material costs eligible for reimbursement",
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Not Medically Necessary",
+        "description": "Any treatment or part of treatment that is not of reasonable charge and not medically necessary",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Unsupported Drugs/Treatments",
+        "description": "Drugs or treatments which are not supported by prescription",
+        "exception_conditions": null,
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Time-bound/Lifetime Exclusions",
+        "description": "Any specific time bound or lifetime exclusion(s) applied and specified in Schedule",
+        "exception_conditions": "As accepted by insured",
+        "page_number": 25
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Intra-articular/Intra-lesional Injections",
+        "description": "Admission for administration of Intra-articular or Intra-lesional injections, Supplementary medications like Zolendronic acid or IV immunoglobulin infusion",
+        "exception_conditions": null,
+        "page_number": 25
+      }
+    ],
+    "waiting_periods": [
+      {
+        "period_type": "initial",
+        "disease_or_procedure": "Any illness",
+        "duration_days": 30,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for accidents or if insured has continuous coverage for more than 12 months",
+        "page_number": 19
+      },
+      {
+        "period_type": "pre_existing",
+        "disease_or_procedure": "Pre-Existing Diseases",
+        "duration_days": 1095,
+        "can_be_reduced": true,
+        "reduction_conditions": "Reduced to extent of prior coverage under portability/migration. Coverage after 36 months subject to declaration and acceptance",
+        "page_number": 22
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Specified Diseases/Procedures (see detailed list)",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident or if underlying cause is cancer. Reduced to extent of prior coverage under portability/migration",
+        "page_number": 19
+      },
+      {
+        "period_type": "maternity",
+        "disease_or_procedure": "Maternity Expenses - Exclusive Variant (Individual SI Rs.3-7.5L)",
+        "duration_days": 2190,
+        "can_be_reduced": false,
+        "reduction_conditions": "6 years waiting period",
+        "page_number": 40
+      },
+      {
+        "period_type": "maternity",
+        "disease_or_procedure": "Maternity Expenses - Exclusive Variant (Individual SI Rs.10-50L)",
+        "duration_days": 1460,
+        "can_be_reduced": false,
+        "reduction_conditions": "4 years waiting period",
+        "page_number": 40
+      },
+      {
+        "period_type": "maternity",
+        "disease_or_procedure": "Maternity Expenses - Exclusive Variant (Family Floater SI Rs.3-15L)",
+        "duration_days": 1460,
+        "can_be_reduced": false,
+        "reduction_conditions": "4 years waiting period",
+        "page_number": 42
+      },
+      {
+        "period_type": "maternity",
+        "disease_or_procedure": "Maternity Expenses - Exclusive Variant (Family Floater SI Rs.20-50L)",
+        "duration_days": 1095,
+        "can_be_reduced": false,
+        "reduction_conditions": "3 years waiting period",
+        "page_number": 42
+      },
+      {
+        "period_type": "critical_illness",
+        "disease_or_procedure": "Critical Illness (Optional)",
+        "duration_days": 90,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply if previously insured continuously and without interruption under Easy Health Policy",
+        "page_number": 15
+      }
+    ],
+    "pre_existing_waiting_period_months": 36,
+    "pre_existing_page": 22,
+    "initial_waiting_period_days": 30,
+    "initial_waiting_page": 19,
+    "specific_disease_waiting_months": 24,
+    "specific_disease_page": 19,
+    "specified_diseases_detailed_list": {
+      "ent": {
+        "illnesses": ["Sinusitis", "Rhinitis", "Tonsillitis"],
+        "procedures": ["Adenoidectomy", "Mastoidectomy", "Tonsillectomy", "Tympanoplasty", "Surgery for nasal septum deviation", "Nasal concha resection", "Nasal polypectomy", "Surgery for Turbinate hypertrophy"]
+      },
+      "gynaecological": {
+        "illnesses": ["Cysts, polyps including breast lumps", "Polycystic ovarian disease", "Fibroids (fibromyoma)"],
+        "procedures": ["Hysterectomy"]
+      },
+      "orthopaedic": {
+        "illnesses": ["Non infective arthritis", "Gout and Rheumatism", "Osteoarthritis and Osteoporosis"],
+        "procedures": ["Surgery for prolapsed inter vertebral disk", "Joint replacement surgeries"]
+      },
+      "gastrointestinal": {
+        "illnesses": ["Calculus diseases of gall bladder including Cholecystitis", "Pancreatitis", "Fissure/fistula in anus, hemorrhoids, pilonidal sinus", "Ulcer and erosion of stomach and duodenum", "Gastro Esophageal Reflux Disorder (GERD)", "All forms of cirrhosis (alcohol-related cirrhosis excluded)", "Perineal Abscesses", "Perianal Abscesses"],
+        "procedures": ["Cholecystectomy", "Surgery of hernia"]
+      },
+      "urogenital": {
+        "illnesses": ["Calculus diseases of Urogenital system (Kidney stone, Urinary bladder stone)", "Benign Hyperplasia of prostate"],
+        "procedures": ["Surgery on prostate", "Surgery for Hydrocele/Rectocele"]
+      },
+      "eye": {
+        "illnesses": ["Cataract"],
+        "procedures": []
+      },
+      "others": {
+        "illnesses": [],
+        "procedures": ["Surgery of varicose veins and varicose ulcers"]
+      },
+      "general": {
+        "illnesses": ["Internal tumours, cysts, nodules, polyps, skin tumours"],
+        "procedures": []
+      }
+    }
+  },
+  "sub_limits": {
+    "sub_limits": [
+      {
+        "limit_category": "ambulance",
+        "item_name": "Emergency Ambulance",
+        "limit_type": "fixed_amount",
+        "limit_value": 2000,
+        "applies_to": "per_claim",
+        "description": "Rs.2,000 per hospitalization",
+        "page_number": 12
+      },
+      {
+        "limit_category": "ambulance",
+        "item_name": "Emergency Air Ambulance - Exclusive",
+        "limit_type": "fixed_amount",
+        "limit_value": 250000,
+        "applies_to": "per_claim",
+        "description": "Rs.2.5 lakhs per hospitalization, up to basic sum insured limit for year",
+        "page_number": 14
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Shared Accommodation - Standard",
+        "limit_type": "fixed_amount",
+        "limit_value": 500,
+        "applies_to": "per_day",
+        "description": "Rs.500 per day, maximum Rs.3,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Shared Accommodation - Exclusive (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 500,
+        "applies_to": "per_day",
+        "description": "Rs.500 per day, maximum Rs.3,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Shared Accommodation - Exclusive (SI Rs.7.5-15L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 800,
+        "applies_to": "per_day",
+        "description": "Rs.800 per day, maximum Rs.4,800",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Shared Accommodation - Exclusive (SI Rs.20-50L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 1000,
+        "applies_to": "per_day",
+        "description": "Rs.1,000 per day, maximum Rs.6,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Accompanying Child - Exclusive (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 300,
+        "applies_to": "per_day",
+        "description": "Rs.300 per day, maximum Rs.9,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Accompanying Child - Exclusive (SI Rs.7.5-15L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 500,
+        "applies_to": "per_day",
+        "description": "Rs.500 per day, maximum Rs.15,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Daily Cash for Accompanying Child - Exclusive (SI Rs.20-50L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 800,
+        "applies_to": "per_day",
+        "description": "Rs.800 per day, maximum Rs.24,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Recovery Benefit - Exclusive",
+        "limit_type": "fixed_amount",
+        "limit_value": 10000,
+        "applies_to": "per_claim",
+        "description": "Rs.10,000 lump sum if hospitalized beyond 10 consecutive days. Once per illness/accident per policy year",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Maternity Normal Delivery - Exclusive (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 15000,
+        "applies_to": "per_delivery",
+        "description": "Rs.15,000 including pre/post natal Rs.1,500 and newborn Rs.2,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Maternity Caesarean Delivery - Exclusive (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 25000,
+        "applies_to": "per_delivery",
+        "description": "Rs.25,000 including pre/post natal Rs.1,500 and newborn Rs.2,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Maternity Normal Delivery - Exclusive (SI Rs.7.5-15L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 25000,
+        "applies_to": "per_delivery",
+        "description": "Rs.25,000 including pre/post natal Rs.2,500 and newborn Rs.3,500",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Maternity Caesarean Delivery - Exclusive (SI Rs.7.5-15L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 40000,
+        "applies_to": "per_delivery",
+        "description": "Rs.40,000 including pre/post natal Rs.2,500 and newborn Rs.3,500",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Maternity Normal Delivery - Exclusive (SI Rs.20-50L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 30000,
+        "applies_to": "per_delivery",
+        "description": "Rs.30,000 including pre/post natal Rs.5,000 and newborn Rs.5,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Maternity Caesarean Delivery - Exclusive (SI Rs.20-50L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 50000,
+        "applies_to": "per_delivery",
+        "description": "Rs.50,000 including pre/post natal Rs.5,000 and newborn Rs.5,000",
+        "page_number": 40
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Critical Illness (Optional)",
+        "limit_type": "percentage",
+        "limit_value": null,
+        "applies_to": "per_diagnosis",
+        "description": "50% or 100% of In-patient Sum Insured, minimum Rs.1 lakh, maximum Rs.10 lakhs",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Standard Individual",
+        "limit_type": "percentage",
+        "limit_value": 1,
+        "applies_to": "per_block",
+        "description": "1% of SI per insured person up to Rs.5,000, once at end of every continuous 4 claim free years",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Exclusive Individual",
+        "limit_type": "percentage",
+        "limit_value": 1,
+        "applies_to": "per_block",
+        "description": "1% of SI subject to max Rs.5,000 per insured person, once at end of every continuous 3 policy years",
+        "page_number": 40
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Standard Family",
+        "limit_type": "percentage",
+        "limit_value": 1,
+        "applies_to": "per_block",
+        "description": "1% of SI per policy up to Rs.5,000, once at end of every continuous 4 claim free years",
+        "page_number": 42
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Exclusive Family",
+        "limit_type": "percentage",
+        "limit_value": 1,
+        "applies_to": "per_block",
+        "description": "1% of SI per policy subject to max Rs.5,000, once at end of every continuous 3 policy years",
+        "page_number": 42
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Healthcare Advisory Benefit",
+        "limit_type": "fixed_amount",
+        "limit_value": 5000,
+        "applies_to": "per_claim",
+        "description": "Rs.5,000 lump sum if insured accepts and utilizes alternate network provider suggested by company for surgical or medical treatment",
+        "page_number": 26
+      }
+    ],
+    "copay_conditions": []
+  },
+  "additional_benefits": {
+    "cumulative_bonus": {
+      "accrual_rate": "10% of Base Sum Insured per policy year",
+      "maximum_bonus": "100%",
+      "notes": "Irrespective of any claims. Applied post completion of each policy year. In family floater, available at policy level for all insured persons",
+      "portability_migration": "Offered to extent of sum of previous SI and accrued cumulative bonus. Does not apply to additional increased SI"
+    },
+    "stay_active_discount": {
+      "available": true,
+      "maximum_discount": "8% on renewal premium",
+      "mechanism": "Based on average step count achieved on mobile app",
+      "step_targets": {
+        "5000_or_below": "0% discount",
+        "5001_to_8000": "2% discount (1 year policy) or 2% (2 year policy)",
+        "8001_to_10000": "5% discount (1 year policy) or 5% (2 year policy)",
+        "above_10000": "8% discount (1 year policy) or 8% (2 year policy)"
+      },
+      "conditions": "Mobile app must be downloaded within 30 days of policy risk start date. For individual policy, calculated per adult member. For floater, average of all adult members. Dependent children not considered",
+      "page_number": 16
+    },
+    "preventive_health_checkup": {
+      "standard_variant": {
+        "individual": "1% of SI per insured person up to Rs.5,000, once at end of every continuous 4 claim free years",
+        "family": "1% of SI per policy up to Rs.5,000, once at end of every continuous 4 claim free years. If any member makes claim, benefit not offered to whole family"
+      },
+      "exclusive_variant": {
+        "individual": "1% of SI subject to max Rs.5,000 per insured person, once at end of every continuous 3 policy years",
+        "family": "1% of SI per policy subject to max Rs.5,000, once at end of every continuous 3 policy years"
+      },
+      "definition": "Package of medical tests for general health assessment, not diagnostic or investigative tests for illness",
+      "page_number": 18
+    },
+    "moratorium_period": {
+      "duration_months": 60,
+      "description": "After 60 continuous months of coverage (including portability and migration), no policy/claim contestable except on grounds of established fraud",
+      "applicable_to": "Sums insured of first policy. For enhanced SI, 60 months from enhancement date on enhanced limits only",
+      "page_number": 29
+    }
+  },
+  "claim_procedures": {
+    "cashless": {
+      "available": true,
+      "network_hospitals": "Network hospitals listed on website or in welcome kit",
+      "preauthorization_required": true,
+      "planned_treatment_notice": "At least 48 hours before planned treatment or hospitalization",
+      "emergency_notice": "Within 24 hours after treatment or hospitalization",
+      "helpline": "022-62346234 / 0120-62346234",
+      "email": "healthclaims@hdfcergo.com",
+      "documents_required": [
+        "Full particulars must be provided",
+        "Notice that insured wishes to use cashless service"
+      ]
+    },
+    "reimbursement": {
+      "available": true,
+      "claim_intimation_time": {
+        "planned_hospitalization": "At least 48 hours prior to admission",
+        "emergency_hospitalization": "Within 24 hours of start of hospitalization",
+        "contingent_benefits": "Within 7 days of discharge post-hospitalization"
+      },
+      "document_submission_time": "Within 15 days of earlier of company's request or insured's discharge from hospitalization or completion of treatment",
+      "documents_required": [
+        "Claim form duly completed and signed",
+        "Original bills (pharmacy, consultation, diagnostic with attachments)",
+        "All reports and records (medical reports, case histories, indoor case papers, investigation reports, treatment papers, discharge summaries)",
+        "Precise diagnosis of treatment",
+        "Detailed list of medical services and treatments with unit prices",
+        "Prescriptions naming insured person with drugs prescribed, price and receipt",
+        "Pre and post investigation, treatment and follow-up records for present ailment",
+        "Investigation, treatment and follow-up records for past ailments since first diagnosis",
+        "Treating doctor's certificate regarding missing information",
+        "Copy of settlement letter from other insurance company or TPA",
+        "Stickers and invoice of implants used",
+        "Copy of MLC records and FIR for accident claims",
+        "NEFT and KYC requirements (ID/Address proof and photograph)",
+        "Legal heir certificate (if applicable)"
+      ]
+    },
+    "claim_settlement_time": {
+      "standard_time": "15 days from date of receipt of intimation",
+      "penal_interest": "2% above Bank Rate from date of receipt of intimation to date of payment if delayed"
+    }
+  },
+  "policy_conditions": {
+    "grace_period": {
+      "monthly_premium": "15 days",
+      "other_modes": "30 days",
+      "coverage_during_grace": "Yes, if premium paid in instalments during policy period"
+    },
+    "free_look_period": {
+      "duration_days": 30,
+      "applicable_to": "New individual health insurance policies only, not renewals or portability/migration",
+      "refund_conditions": "Refund of premium less medical examination expenses and stamp duty charges; or proportionate risk premium if risk commenced; or proportionate premium if part coverage commenced"
+    },
+    "renewal": {
+      "guaranteed": true,
+      "conditions": "Cannot be denied based on claims in preceding years (except benefit-based policies). Delay condoned up to grace period. No loading based on individual claims experience. No fresh underwriting unless SI increased"
+    },
+    "portability": {
+      "available": true,
+      "notice_period": "At least 30 days before, not earlier than 60 days from renewal date",
+      "continuity_benefits": "Accrued waiting period benefits as per IRDAI guidelines"
+    },
+    "migration": {
+      "available": true,
+      "notice_period": "At least 30 days before renewal date",
+      "continuity_benefits": "Accrued continuity benefits in waiting periods as per IRDAI guidelines"
+    },
+    "cancellation": {
+      "by_policyholder": "7 days written notice. Pro-rata premium refund for unexpired period. No refund if claim admitted or benefit availed. For instalment premium policies: future instalments adjusted in claim amount, no refund during policy year",
+      "by_insurer": "15 days written notice on grounds of established fraud or non-disclosure or misrepresentation. No premium refund",
+      "death_of_insured": "Proportionate premium refund for unexpired period IF no claims for that insured person"
+    },
+    "territorial_limit": "All medical treatment must be taken within India. All payments in Indian Rupees within India"
+  },
+  "premium_payment": {
+    "modes": [
+      "Monthly",
+      "Quarterly",
+      "Half-yearly",
+      "Annual",
+      "Multi-year (2 years)"
+    ],
+    "instalment_conditions": "In event of claim, all subsequent premium instalments immediately become due and payable. Company can recover pending instalments from claim amount. No interest charged if instalment not paid on due date. Policy cancelled if instalment not paid within grace period",
+    "auto_debit_ecs": {
+      "available": true,
+      "requirements": "ECS Mandate form completely filled and signed. Premium amount and frequency must be specified. New form required for any change in premium. Company must be informed 15 days prior if discontinuing ECS. Non-payment subject to 15 days relaxation period leads to termination"
+    }
+  },
+  "discounts_and_loadings": {
+    "family_discount": {
+      "two_members": "5%",
+      "three_or_more_members": "10%"
+    },
+    "multi_year_discount": {
+      "two_year_policy": "7.5% if paying 2-year premium in advance as single premium"
+    },
+    "floater_discount": {
+      "family_floater": "55% on all members except oldest member"
+    },
+    "risk_loading": {
+      "maximum_per_diagnosis": "200%",
+      "maximum_overall_per_person": "300%",
+      "counter_offer_response_time": "7 days to accept and pay additional premium"
+    }
+  },
+  "geography": {
+    "tier_1_cities": [
+      "Delhi",
+      "NCR",
+      "Mumbai",
+      "Thane",
+      "Mumbai Suburban",
+      "Navi Mumbai",
+      "Surat",
+      "Ahmedabad",
+      "Vadodara"
+    ],
+    "tier_2_cities": "Rest of India - All other cities",
+    "midterm_address_change": "Premium modified on pro-rata basis if migration from one zone to another"
+  },
+  "non_disclosure_misrepresentation": {
+    "consequences": [
+      "Policy cancelled ab initio from inception/renewal date",
+      "Policy may be modified at company's discretion with 15 days notice",
+      "Claims rejected/repudiated"
+    ],
+    "options_for_ped_non_disclosure": [
+      "Permanently exclude disease/condition and continue policy",
+      "Additional waiting period up to 3 years from detection date",
+      "Levy underwriting loading from first year or renewal"
+    ]
+  },
+  "grievance_redressal": {
+    "company_contact": {
+      "customer_service": "022-6158 2020 / 022-6234 6234",
+      "website": "www.hdfcergo.com",
+      "level_1_email": "grievance@hdfcergo.com",
+      "level_1_phone": "18002677444 (Mon-Sat 9AM-6PM)",
+      "level_1_address": "D-301, 3rd Floor, Eastern Business District (Magnet Mall), LBS Marg, Bhandup (West), Mumbai - 400078",
+      "level_2_email": "cgo@hdfcergo.com",
+      "level_3": "Council for Insurance Ombudsmen www.cioins.co.in",
+      "senior_citizen_email": "seniorcitizen@hdfcergo.com",
+      "senior_citizen_phone": "022-6158 2026",
+      "women_helpline": "022-6158 2055"
+    },
+    "ombudsman": {
+      "available": true,
+      "online_portal": "https://bimabharosa.irdai.gov.in"
+    }
+  },
+  "non_payable_items": {
+    "list_1_items_not_covered": [
+      "Baby food",
+      "Baby utilities charges",
+      "Beauty services",
+      "Belts/braces",
+      "Buds",
+      "Cold pack/hot pack",
+      "Carry bags",
+      "Email/internet charges",
+      "Food charges (other than patient's diet)",
+      "Leggings",
+      "Laundry charges",
+      "Mineral water",
+      "Sanitary pad",
+      "Telephone charges",
+      "Guest services",
+      "Crepe bandage",
+      "Diaper of any type",
+      "Eyelet collar",
+      "Slings",
+      "Blood grouping and cross matching of donors samples",
+      "Service charges where nursing charge also charged",
+      "Television charges",
+      "Surcharges",
+      "Attendant charges",
+      "Extra diet of patient",
+      "Birth certificate",
+      "Certificate charges",
+      "Courier charges",
+      "Conveyance charges",
+      "Medical certificate",
+      "Medical records",
+      "Photocopies charges",
+      "Mortuary charges",
+      "Walking aids charges",
+      "Oxygen cylinder (for usage outside hospital)",
+      "Spacer",
+      "Spirometer",
+      "Nebulizer kit",
+      "Steam inhaler",
+      "Arm sling",
+      "Thermometer",
+      "Cervical collar",
+      "Splint",
+      "Diabetic foot wear",
+      "Knee braces",
+      "Knee/shoulder immobilizer",
+      "Lumbo sacral belt",
+      "Nimbus bed or water or air bed charges",
+      "Ambulance collar",
+      "Ambulance equipment",
+      "Abdominal binder",
+      "Private nurses charges - special nursing charges",
+      "Sugar free tablets",
+      "Creams powders lotions (toiletries)",
+      "ECG electrodes",
+      "Gloves",
+      "Nebulisation kit",
+      "Any kit with no details mentioned",
+      "Kidney tray",
+      "Mask",
+      "Ounce glass",
+      "Oxygen mask",
+      "Pelvic traction belt",
+      "Pan can",
+      "Trolly cover",
+      "Urometer, urine jug",
+      "Ambulance",
+      "Vasofix safety"
+    ],
+    "subsumed_in_room_charges": [
+      "Baby charges (unless specified)",
+      "Hand wash",
+      "Shoe cover",
+      "Caps",
+      "Cradle charges",
+      "Comb",
+      "Eau-de-cologne/Room fresheners",
+      "Foot cover",
+      "Gown",
+      "Slippers",
+      "Tissue paper",
+      "Tooth paste",
+      "Tooth brush",
+      "Bed pan",
+      "Face mask",
+      "Flexi mask",
+      "Hand holder",
+      "Sputum cup",
+      "Disinfectant lotions",
+      "Luxury tax",
+      "HVAC",
+      "House keeping charges",
+      "Air conditioner charges",
+      "IM IV injection charges",
+      "Clean sheet",
+      "Blanket/Warmer blanket",
+      "Admission kit",
+      "Diabetic chart charges",
+      "Documentation charges/Administrative expenses",
+      "Discharge procedure charges",
+      "Daily chart charges",
+      "Entrance pass/Visitors pass charges",
+      "Expenses related to prescription on discharge",
+      "File opening charges",
+      "Incidental expenses/Misc. charges (not explained)",
+      "Patient identification band/Name tag",
+      "Pulseoxymeter charges"
+    ],
+    "subsumed_in_procedure_charges": [
+      "Hair removal cream",
+      "Disposable razors charges (for site preparations)",
+      "Eye pad",
+      "Eye shield",
+      "Camera cover",
+      "DVD, CD charges",
+      "Gauze soft",
+      "Gauze",
+      "Ward and theatre booking charges",
+      "Arthroscopy and endoscopy instruments",
+      "Microscope cover",
+      "Surgical blades, harmonic scalpel, shaver",
+      "Surgical drill",
+      "Eye kit",
+      "Eye drape",
+      "X-ray film",
+      "Boyles apparatus charges",
+      "Cotton",
+      "Cotton bandage",
+      "Surgical tape",
+      "Apron",
+      "Tourniquet",
+      "Orthobundle, Gynaec bundle"
+    ],
+    "subsumed_in_treatment_costs": [
+      "Admission/Registration charges",
+      "Hospitalisation for evaluation/diagnostic purpose",
+      "Urine container",
+      "Blood reservation charges and ante natal booking charges",
+      "BIPAP machine",
+      "CPAP/CAPD equipments",
+      "Infusion pump - cost",
+      "Hydrogen peroxide/Spirit/Disinfectants etc",
+      "Nutrition planning charges - Dietician charges - Diet charges",
+      "HIV kit",
+      "Antiseptic mouthwash",
+      "Lozenges",
+      "Mouth paint",
+      "Vaccination charges",
+      "Alcohol swabs",
+      "Scrub solution/Sterillium",
+      "Glucometer & strips",
+      "Urine bag"
+    ]
+  },
+  "key_features": {
+    "unique_benefits": [
+      "Stay Active Discount (up to 8% based on step count)",
+      "Healthcare Advisory Benefit (Rs.5,000 if accepting alternate network provider)",
+      "Evidence-based medicine criteria for hospitalization necessity",
+      "Preventive Health Check-up benefit",
+      "Domiciliary treatment coverage (minimum 3 days)",
+      "Daily cash for shared accommodation",
+      "Daily cash for accompanying child (Exclusive variant)",
+      "Recovery benefit for hospitalization >10 days (Exclusive variant)",
+      "Emergency air ambulance (Exclusive variant)",
+      "Maternity coverage (Exclusive variant)",
+      "Newborn baby coverage (Exclusive variant, additional premium)",
+      "Critical illness optional benefit (up to Rs.10 lakhs)"
+    ],
+    "special_conditions": [
+      "Specified disease waiting period does not apply if underlying cause is cancer",
+      "Domiciliary treatment requires minimum 3 days (coverage only if >3 days)",
+      "Maternity limited to 2 deliveries/terminations in lifetime",
+      "Critical illness maximum 3 claims under any Easy Health policy",
+      "Health checkup - Standard variant requires claim-free years, Exclusive variant does not",
+      "Stay Active discount - dependent children not considered for step calculation",
+      "Penal interest on delayed claim settlement: 2% above Bank Rate"
+    ]
+  }
+}

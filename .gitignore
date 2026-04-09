@@ -1,0 +1,5 @@
+node_modules/
+.venv/
+backend/.env
+backend/storage/documents/*
+!backend/storage/documents/.gitkeep

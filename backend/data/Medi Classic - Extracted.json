@@ -1,0 +1,1188 @@
+{
+  "source_file": "Policy_Medi_Classic_Insurance_Policy_Individual_V_24_efeec2343d.pdf",
+  "extraction_date": "2026-02-08T00:00:00",
+  "page_count": 9,
+  "basic_info": {
+    "insurer_name": "Star Health and Allied Insurance Company Limited",
+    "policy_name": "Medi Classic Insurance Policy (Individual)",
+    "policy_code": "SHAHLIP25038V082425",
+    "version": "POL / MCI / V.24 / 2025",
+    "effective_date": "2025-01-01",
+    "policy_type": "Individual",
+    "document_type": "policy_wording"
+  },
+  "coverage": {
+    "sum_insured_options": [
+      150000,
+      200000,
+      300000,
+      400000,
+      500000,
+      1000000,
+      1500000,
+      2000000,
+      2500000
+    ],
+    "sum_insured_page": 2,
+    "room_rent_limit": "2% of Basic Sum Insured maximum of Rs.5,000/- per day for Rs.1,50,000; For Rs.3,00,000 to Rs.25,00,000: Up to Rs.5,000/- per day or Private Single A/c Room",
+    "room_rent_page": 2,
+    "icu_coverage": "Covered under ICU Charges - includes ICU bed, general medical support services, monitoring devices, critical care nursing and intensivist charges",
+    "icu_page": 2,
+    "pre_hospitalization_days": 30,
+    "pre_hosp_page": 3,
+    "post_hospitalization_days": 60,
+    "post_hosp_page": 3,
+    "coverage_features": [
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Room, Boarding, Nursing Expenses",
+        "is_covered": true,
+        "coverage_limit": "2% of Basic Sum Insured max Rs.5,000/- per day (for Rs.1,50,000 SI) or Private Single A/c Room (for higher SI)",
+        "coverage_details": "Proportionate deduction applies to Associated Medical Expenses based on room rent eligibility",
+        "notes": "Proportionate deductions not applied for hospitals without differential billing",
+        "page_number": 2
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees",
+        "is_covered": true,
+        "coverage_limit": null,
+        "coverage_details": "Covered as part of hospitalization expenses",
+        "notes": "Subject to proportionate deduction based on room rent",
+        "page_number": 2
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Medical Supplies and Procedures",
+        "is_covered": true,
+        "coverage_limit": null,
+        "coverage_details": "Covers Anesthesia, Blood, Oxygen, Operation Theatre charges, ICU charges, Surgical Appliances, Medicines and Drugs, Diagnostic materials, X-ray, Diagnostic Imaging, Dialysis, Chemotherapy, Radiotherapy, Pacemaker, stent",
+        "notes": "Coronary stenting costs as per DPCO/NPPA Capping",
+        "page_number": 2
+      },
+      {
+        "feature_type": "ambulance",
+        "feature_name": "Ambulance Charges",
+        "is_covered": true,
+        "coverage_limit": "Rs.750 per hospitalization, overall limit Rs.1,500 per policy period",
+        "coverage_details": "For private ambulance service when needed for medical reasons to go to hospital for treatment",
+        "notes": "Payable only if there is an admissible claim under the policy",
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Pre-Hospitalization Medical Expenses",
+        "is_covered": true,
+        "coverage_limit": "30 days prior to hospitalization",
+        "coverage_details": "For the disease/illness, injury sustained following an admissible claim for hospitalization",
+        "notes": null,
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Post-Hospitalization Medical Expenses",
+        "is_covered": true,
+        "coverage_limit": "60 days from date of discharge, max 7% of hospitalization expenses subject to Rs.5,000 per hospitalization",
+        "coverage_details": "Calculated on nursing expenses, surgeon's/consultants fees, diagnostic charges and cost of drugs and medicines only",
+        "notes": null,
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Health Check-up",
+        "is_covered": true,
+        "coverage_limit": "1% of average Basic Sum Insured subject to max Rs.5,000",
+        "coverage_details": "Available for Basic Sum Insured of Rs.2,00,000 and above only. Payable after every block of 4 claim free years",
+        "notes": "Payment does not form part of Basic Sum Insured",
+        "page_number": 3
+      },
+      {
+        "feature_type": "disease_specific",
+        "feature_name": "Cataract Treatment",
+        "is_covered": true,
+        "coverage_limit": "Rs.12,000 per person per policy period (up to Rs.2 lakh SI); Rs.20,000 per eye max Rs.30,000 per person (Rs.3-5 lakh SI); Rs.30,000 per eye max Rs.40,000 per person (Rs.10-15 lakh SI)",
+        "coverage_details": "Sub-limits vary based on sum insured",
+        "notes": null,
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Modern Treatments",
+        "is_covered": true,
+        "coverage_limit": "Varies by treatment and sum insured",
+        "coverage_details": "Covers Balloon Sinuplasty, Deep Brain Stimulation, Oral Chemotherapy, Immunotherapy-Monoclonal Antibody injections, Intra Vitreal injections, Uterine artery Embolization and HIFU, Stereotactic radio surgeries, Bronchical Thermoplasty, Vaporisation of prostate, IONM, Stem cell therapy for bone marrow transplant, Robotic surgeries",
+        "notes": "Limits range from Rs.5,000 to Rs.5,00,000 depending on treatment and sum insured. Sublimits all inclusive with or without hospitalization",
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Cumulative Bonus",
+        "is_covered": true,
+        "coverage_limit": "5% of basic sum insured for every claim free year, max 25%",
+        "coverage_details": "Reduces at same rate if claim made. Calculated on lower of expiring or renewed SI",
+        "notes": null,
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "Automatic Restoration of Basic Sum Insured",
+        "is_covered": true,
+        "coverage_limit": "200% restoration once during policy period",
+        "coverage_details": "Available immediately upon exhaustion of limit of coverage. Can be used only for illness/disease unrelated to illness for which claim was made",
+        "notes": "Cannot be carried forward. Not available for Modern Treatment",
+        "page_number": 3
+      },
+      {
+        "feature_type": "hospitalization",
+        "feature_name": "AYUSH Treatment",
+        "is_covered": true,
+        "coverage_limit": "25% of Basic Sum Insured subject to max Rs.25,000 during entire policy period",
+        "coverage_details": "In-patient hospitalization expenses for treatment by non-allopathic systems of medicine",
+        "notes": null,
+        "page_number": 3
+      },
+      {
+        "feature_type": "daycare",
+        "feature_name": "Day Care Treatment",
+        "is_covered": true,
+        "coverage_limit": null,
+        "coverage_details": "All day care procedures are covered under this policy",
+        "notes": "Treatment undertaken under anesthesia in less than 24 hours which would have otherwise required hospitalization of more than 24 hours",
+        "page_number": 5
+      }
+    ]
+  },
+  "optional_coverage": {
+    "gold_plan": {
+      "available": true,
+      "sum_insured_options": [
+        300000,
+        400000,
+        500000,
+        1000000,
+        1500000,
+        2000000,
+        2500000
+      ],
+      "features": [
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Room Rent - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "Private Single A/c Room",
+          "coverage_details": "Enhanced room rent coverage compared to base plan",
+          "notes": null,
+          "page_number": 3
+        },
+        {
+          "feature_type": "ambulance",
+          "feature_name": "Ambulance Charges - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "Rs.2,000 per hospitalization",
+          "coverage_details": "Enhanced ambulance coverage",
+          "notes": null,
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Health Check-up - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "Rs.1,500 for every claim free year (Rs.3-5 lakh SI); Rs.2,500 (Rs.10-15 lakh SI); Rs.5,000 (Rs.20-25 lakh SI)",
+          "coverage_details": "Payable on renewal when renewed policy is in force",
+          "notes": "Payment does not form part of Basic Sum Insured",
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Cumulative Bonus - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "25% in 2nd year, additional 20% for each subsequent year, max 100% overall",
+          "coverage_details": "Enhanced bonus structure compared to base plan",
+          "notes": null,
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Super Restoration - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "100% additional Basic Sum Insured once if limit exhausted",
+          "coverage_details": "Can be utilized even for illness/disease for which claim was made. Unutilized amount cannot be carried forward",
+          "notes": "Not available for Modern Treatment",
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Domiciliary Hospitalization - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": null,
+          "coverage_details": "Coverage for medical treatment (including AYUSH) exceeding 3 days at home when patient cannot be removed to hospital or room unavailable",
+          "notes": "Excludes Asthma, Bronchitis, Chronic Nephritis, Diarrhoea, Diabetes, Epilepsy, Hypertension, Influenza, Cough & Cold, Psychiatric disorders, Pyrexia <10 days, Tonsillitis, URI, Arthritis, Gout, Rheumatism",
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Organ Donor Expenses - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": null,
+          "coverage_details": "In-patient hospitalization expenses for organ transplantation from donor to recipient insured person",
+          "notes": "Donor screening expenses and post-donation complications not payable",
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Shared Accommodation - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "Rs.500 per day max Rs.3,000 per hospitalization (Rs.3-5 lakh SI); Rs.1,000 per day max Rs.6,000 per hospitalization (Rs.10-25 lakh SI)",
+          "coverage_details": "Payable for each completed 24 hours if hospitalization exceeds 48 hours in shared accommodation at network hospital",
+          "notes": "Date of admission/discharge not counted. ICU/HDU stay not counted. Does not form part of SI but impacts cumulative bonus",
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "Additional SI for Road Traffic Accident - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "50% increase in Basic Sum Insured",
+          "coverage_details": "Available if insured was wearing helmet and riding/pillion on two-wheeler, evidenced by police and hospital records",
+          "notes": "Available only once per policy period, after exhaustion of limit of coverage, for that particular RTA hospitalization only. Not for daycare. Impacts cumulative bonus",
+          "page_number": 4
+        },
+        {
+          "feature_type": "hospitalization",
+          "feature_name": "New Born Baby Coverage - Gold Plan",
+          "is_covered": true,
+          "coverage_limit": "10% of Basic Sum Insured or Rs.50,000, whichever less",
+          "coverage_details": "Coverage starts from 16th day after birth till policy expiry, if mother insured continuously for 12 months without break",
+          "notes": "Intimation and policy endorsement required. Exclusion Code Excl 03 not applicable for newborn. All other terms apply",
+          "page_number": 5
+        }
+      ]
+    },
+    "patient_care": {
+      "available": true,
+      "coverage_limit": "Rs.400 per day for up to 5 days per occurrence and 14 days per policy period",
+      "eligibility": "Insured persons above 60 years of age",
+      "coverage_details": "Cost of engaging one attendant at residence after discharge if recommended by physician",
+      "notes": "No payment for first day. Requires valid hospitalization claim. Available with additional premium",
+      "page_number": 5
+    },
+    "hospital_cash": {
+      "available": true,
+      "coverage_limit": "Rs.1,000 per completed day, max 7 days per hospitalization and 14 days per policy period",
+      "coverage_details": "Cash benefit for each completed day of hospitalization",
+      "notes": "Admission and discharge days not counted. Not payable for physiotherapy or epidemic. Requires valid hospitalization claim. Available with additional premium",
+      "page_number": 5
+    }
+  },
+  "exclusions": {
+    "exclusions": [
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Pre-Existing Diseases - Code Excl 01",
+        "description": "Expenses related to treatment of Pre-Existing Disease and its direct complications excluded until expiry of 36 months of continuous coverage",
+        "exception_conditions": "Coverage after 36 months subject to declaration at application and acceptance by insurer. Waiting period reduced by prior coverage under portability.",
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Specified Disease/Procedure Waiting Period - Code Excl 02",
+        "description": "24 months continuous coverage waiting period for specified diseases/surgeries/treatments",
+        "exception_conditions": "Does not apply for claims arising due to accident. Longer of two waiting periods applies if also covered under PED waiting. Waiting period reduced by prior coverage under portability.",
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "30-day Waiting Period - Code Excl 03",
+        "description": "Expenses for treatment of any illness within 30 days from first policy commencement excluded",
+        "exception_conditions": "Does not apply for accidents or if insured has continuous coverage for more than 12 months. Not applicable to enhanced sum insured.",
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Investigation & Evaluation - Code Excl 04",
+        "description": "Expenses for admission primarily for diagnostics and evaluation purposes only. Diagnostic expenses not related or incidental to current diagnosis and treatment",
+        "exception_conditions": null,
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Rest Cure, Rehabilitation and Respite Care - Code Excl 05",
+        "description": "Expenses for admission primarily for enforced bed rest, custodial care, and services for terminally ill",
+        "exception_conditions": null,
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Obesity/Weight Control - Code Excl 06",
+        "description": "Surgical treatment of obesity excluded unless specific conditions met",
+        "exception_conditions": "Covered if: conducted upon doctor's advice, supported by clinical protocols, member 18+ years, BMI ≥40 or ≥35 with severe co-morbidities (obesity-related cardiomyopathy, coronary heart disease, severe sleep apnea, uncontrolled Type2 Diabetes) after failure of less invasive methods",
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Change-of-Gender Treatments - Code Excl 07",
+        "description": "Any treatment including surgical management to change characteristics of body to opposite sex",
+        "exception_conditions": null,
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Cosmetic or Plastic Surgery - Code Excl 08",
+        "description": "Expenses for cosmetic or plastic surgery or treatment to change appearance",
+        "exception_conditions": "Covered if for reconstruction following Accident, Burns or Cancer, or as part of medically necessary treatment to remove direct and immediate health risk (must be certified by attending Medical Practitioner)",
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Hazardous or Adventure Sports - Code Excl 09",
+        "description": "Treatment necessitated due to participation as professional in hazardous/adventure sports",
+        "exception_conditions": null,
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Breach of Law - Code Excl 10",
+        "description": "Treatment arising from insured committing or attempting to commit breach of law with criminal intent",
+        "exception_conditions": null,
+        "page_number": 5
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Excluded Providers - Code Excl 11",
+        "description": "Treatment in hospitals or by providers specifically excluded by insurer and disclosed on website/notified to policyholders",
+        "exception_conditions": "In life threatening situations or following accident, expenses up to stabilization stage payable but not complete claim",
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Alcoholism, Drug/Substance Abuse - Code Excl 12",
+        "description": "Treatment for alcoholism, drug or substance abuse or any addictive condition and consequences thereof",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Health Hydros, Nature Cure Clinics, Spas - Code Excl 13",
+        "description": "Treatments in health hydros, nature cure clinics, spas or similar establishments or private beds attached to such establishments or admission for domestic reasons",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Dietary Supplements - Code Excl 14",
+        "description": "Dietary supplements and substances purchasable without prescription, including vitamins, minerals and organic substances",
+        "exception_conditions": "Covered if prescribed by medical practitioner as part of hospitalization claim or day care procedure",
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Refractive Error - Code Excl 15",
+        "description": "Treatment for correction of eye sight due to refractive error less than 7.5 dioptres",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Unproven Treatments - Code Excl 16",
+        "description": "Any unproven treatment, services and supplies lacking significant medical documentation to support effectiveness",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Sterility and Infertility - Code Excl 17",
+        "description": "Any type of contraception, sterilization, assisted reproduction services (IVF, ZIFT, GIFT, ICSI), gestational surrogacy, reversal of sterilization",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "standard",
+        "exclusion_name": "Maternity - Code Excl 18",
+        "description": "Medical treatment expenses traceable to childbirth (including complicated deliveries and caesarean sections), miscarriage and lawful medical termination of pregnancy",
+        "exception_conditions": "Ectopic pregnancy covered",
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Circumcision - Code Excl 19",
+        "description": "Circumcision, Preputioplasty, Frenuloplasty, Preputial Dilatation and Removal of SMEGMA",
+        "exception_conditions": "Covered if necessary for treatment of disease not excluded or necessitated due to accident",
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Congenital External Condition - Code Excl 20",
+        "description": "Congenital External Condition/Defects/Anomalies",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Convalescence, General Debility - Code Excl 21",
+        "description": "Convalescence, general debility, run-down condition, nutritional deficiency states",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Intentional Self-Injury - Code Excl 22",
+        "description": "Intentional self-injury",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "War - Code Excl 24",
+        "description": "Injury/disease caused by or arising from war, invasion, act of foreign enemy, warlike operations",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Nuclear Weapons - Code Excl 25",
+        "description": "Injury or disease caused by or contributed to by nuclear weapons/materials",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Alternative Therapies - Code Excl 26",
+        "description": "Enhanced External Counter Pulsation Therapy, Chelation therapy, Hyperbaric Oxygen Therapy, Rotational Field Quantum Magnetic Resonance Therapy, VAX-D, Low level laser therapy, Photodynamic therapy and similar therapies",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Unconventional/Untested/Experimental Therapies - Code Excl 27",
+        "description": "Unconventional, Untested, Experimental therapies",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Certain Regenerative Procedures - Code Excl 28",
+        "description": "Autologous derived Stromal vascular fraction, Chondrocyte Implantation, Procedures using Platelet Rich plasma and Intra articular injection therapy",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Biologicals - Code Excl 29",
+        "description": "Biologicals",
+        "exception_conditions": "Covered when administered as in-patient, when clinically indicated and hospitalization warranted",
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Inoculation/Vaccination - Code Excl 31",
+        "description": "Inoculation or Vaccination",
+        "exception_conditions": "Covered for post-bite treatment and for medical treatment for therapeutic reasons",
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Hospital Administrative Charges - Code Excl 34",
+        "description": "Hospital registration charges, admission charges, record charges, telephone charges and such other charges",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Medical Devices and Aids - Code Excl 35",
+        "description": "Cost of spectacles and contact lens, hearing aids, Cochlear implants and procedures, walkers and crutches, wheelchairs, CPAP, BIPAP, Continuous Ambulatory Peritoneal Dialysis, infusion pump and similar aids",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Medically Unnecessary Hospitalization - Code Excl 36",
+        "description": "Any hospitalization which are not medically necessary/does not warrant hospitalization",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Other Excluded Expenses - Code Excl 37",
+        "description": "Other Excluded Expenses as detailed in website www.starhealth.in",
+        "exception_conditions": null,
+        "page_number": 6
+      },
+      {
+        "exclusion_category": "specific",
+        "exclusion_name": "Permanent Exclusion - Code Excl 38",
+        "description": "Existing disease/s, disclosed by Insured and mentioned in policy schedule under Permanent Exclusion (based on Insured's consent)",
+        "exception_conditions": null,
+        "page_number": 6
+      }
+    ],
+    "waiting_periods": [
+      {
+        "period_type": "initial",
+        "disease_or_procedure": "Any illness",
+        "duration_days": 30,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for accidents or if insured has continuous coverage for more than 12 months",
+        "page_number": 5
+      },
+      {
+        "period_type": "pre_existing",
+        "disease_or_procedure": "Pre-Existing Diseases",
+        "duration_days": 1095,
+        "can_be_reduced": true,
+        "reduction_conditions": "Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Cataract and diseases of anterior and posterior chamber of Eye (other than retinal detachment), Diseases of ENT, Diseases related to Thyroid, Benign diseases of breast",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Subcutaneous Benign Lumps, Sebaceous cyst, Dermoid cyst, Mucous cyst lip/cheek, Carpal Tunnel Syndrome, Trigger Finger, Lipoma, Neurofibroma, Fibroadenoma, Ganglion and similar pathology",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All treatments for Diseases related to Tendon, Ligament, Fascia, Bones and Joint including Arthroscopy and Arthroplasty/Joint Replacement (other than caused by accident)",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All types of treatment for Degenerative disc and Vertebral diseases including Replacement of bones and joints and Degenerative diseases of Musculo-skeletal system, Prolapse of Intervertebral Disc (other than caused by accident)",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All treatments related to Hepato-pancreato-biliary diseases including Gall bladder and Pancreatic calculi. All types of management for Kidney and Genitourinary tract calculi",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All types of Hernia",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Desmoid Tumor, Umbilical Granuloma, Umbilical Sinus, Umbilical Fistula",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All treatments related to all Diseases of Cervix, Uterus, Fallopian tubes, Ovaries, Uterine Bleeding, Pelvic Inflammatory Diseases",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All Diseases of Prostate, Stricture Urethra, all Obstructive Uropathies",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Benign Tumours of Epididymis, Spermatocele, Varicocele, Hydrocele",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Fistula, Fissure in Ano, Hemorrhoids, Pilonidal Sinus and Fistula, Rectal Prolapse, Stress Incontinence",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Varicose veins and Varicose ulcers",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "All types of transplant and related surgeries",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      },
+      {
+        "period_type": "specific_disease",
+        "disease_or_procedure": "Congenital Internal disease/defect",
+        "duration_days": 730,
+        "can_be_reduced": true,
+        "reduction_conditions": "Does not apply for claims due to accident. Reduced to extent of prior coverage under portability",
+        "page_number": 5
+      }
+    ],
+    "pre_existing_waiting_period_months": 36,
+    "pre_existing_page": 5,
+    "initial_waiting_period_days": 30,
+    "initial_waiting_page": 5,
+    "specific_disease_waiting_months": 24,
+    "specific_disease_page": 5
+  },
+  "sub_limits": {
+    "sub_limits": [
+      {
+        "limit_category": "room_rent",
+        "item_name": "Room Rent",
+        "limit_type": "percentage",
+        "limit_value": 2,
+        "applies_to": "per_day",
+        "description": "2% of Basic Sum Insured maximum Rs.5,000 per day for Rs.1,50,000 SI",
+        "page_number": 2
+      },
+      {
+        "limit_category": "room_rent",
+        "item_name": "Room Rent - Higher Sum Insured",
+        "limit_type": "fixed_amount",
+        "limit_value": 5000,
+        "applies_to": "per_day",
+        "description": "Up to Rs.5,000 per day or Private Single A/c Room for Rs.3,00,000 to Rs.25,00,000",
+        "page_number": 2
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Cataract (SI up to Rs.2,00,000)",
+        "limit_type": "fixed_amount",
+        "limit_value": 12000,
+        "applies_to": "per_year",
+        "description": "Rs.12,000 per person per policy period",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Cataract (SI Rs.3,00,000 to Rs.5,00,000)",
+        "limit_type": "fixed_amount",
+        "limit_value": 30000,
+        "applies_to": "per_year",
+        "description": "Rs.20,000 per eye, max Rs.30,000 per person per policy period",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Cataract (SI Rs.10,00,000 and Rs.15,00,000)",
+        "limit_type": "fixed_amount",
+        "limit_value": 40000,
+        "applies_to": "per_year",
+        "description": "Rs.30,000 per eye, max Rs.40,000 per person per policy period",
+        "page_number": 3
+      },
+      {
+        "limit_category": "ambulance",
+        "item_name": "Ambulance Charges",
+        "limit_type": "fixed_amount",
+        "limit_value": 750,
+        "applies_to": "per_claim",
+        "description": "Rs.750 per hospitalization, overall limit Rs.1,500 per policy period",
+        "page_number": 3
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Post Hospitalization",
+        "limit_type": "percentage",
+        "limit_value": 7,
+        "applies_to": "per_claim",
+        "description": "7% of hospitalization expenses, max Rs.5,000 per hospitalization",
+        "page_number": 3
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup",
+        "limit_type": "percentage",
+        "limit_value": 1,
+        "applies_to": "per_year",
+        "description": "1% of average Basic Sum Insured, max Rs.5,000. Available after 4 claim free years for SI Rs.2,00,000 and above",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Balloon Sinuplasty, Deep Brain Stimulation",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.12,500 (1.5L), Rs.25,000 (2L), Rs.37,500 (3L), Rs.1,00,000 (4L), Rs.1,25,000 (5L), Rs.1,50,000 (10L), Rs.1,75,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Oral Chemotherapy",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Sublimits including pre and post hosp. Varies by SI: Rs.5,000 (1.5L), Rs.10,000 (2L), Rs.15,000 (3L), Rs.40,000 (4L), Rs.50,000 (5L), Rs.1,00,000 (10L), Rs.1,25,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Immunotherapy-Monoclonal Antibody injections",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.25,000 (1.5L), Rs.50,000 (2L), Rs.75,000 (3L), Rs.2,00,000 (4L), Rs.2,50,000 (5L), Rs.3,00,000 (10L), Rs.4,00,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Intra Vitreal injections",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.12,500 (1.5L), Rs.25,000 (2L), Rs.37,500 (3L), Rs.1,00,000 (4L), Rs.1,25,000 (5L), Rs.2,00,000 (10L), Rs.2,50,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Uterine artery Embolization and HIFU",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.25,000 (1.5L), Rs.50,000 (2L), Rs.75,000 (3L), Rs.2,00,000 (4L), Rs.2,50,000 (5L), Rs.4,00,000 (10L), Rs.5,00,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Stereotactic radio surgeries",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.25,000 (1.5L), Rs.50,000 (2L), Rs.75,000 (3L), Rs.2,00,000 (4L), Rs.2,50,000 (5L), Rs.3,00,000 (10L), Rs.4,00,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Bronchical Thermoplasty",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.25,000 (1.5L), Rs.50,000 (2L), Rs.75,000 (3L), Rs.1,75,000 (4L), Rs.2,00,000 (5L), Rs.2,25,000 (10L), Rs.2,50,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Vaporisation of prostate",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Up to Sum Insured for all SI levels",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - IONM",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.25,000 (1.5L), Rs.50,000 (2L), Rs.75,000 (3L), Rs.2,00,000 (4L), Rs.2,50,000 (5L), Rs.3,00,000 (10L), Rs.4,00,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Stem cell therapy (Hematopoietic for bone marrow transplant)",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Varies by SI: Rs.5,000 (1.5L), Rs.10,000 (2L), Rs.15,000 (3L), Rs.40,000 (4L), Rs.50,000 (5L), Rs.75,000 (10L), Rs.1,00,000 (15L)",
+        "page_number": 3
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Modern Treatments - Robotic surgeries",
+        "limit_type": "fixed_amount",
+        "limit_value": null,
+        "applies_to": "per_year",
+        "description": "Robotic surgeries covered within sublimits shown in policy",
+        "page_number": 3
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "AYUSH Treatment",
+        "limit_type": "percentage",
+        "limit_value": 25,
+        "applies_to": "per_year",
+        "description": "25% of Basic Sum Insured, max Rs.25,000 during entire policy period",
+        "page_number": 3
+      },
+      {
+        "limit_category": "room_rent",
+        "item_name": "Room Rent - Gold Plan",
+        "limit_type": "room_category",
+        "limit_value": null,
+        "applies_to": "per_day",
+        "description": "Private Single A/c Room for all sum insured levels in Gold Plan",
+        "page_number": 3
+      },
+      {
+        "limit_category": "ambulance",
+        "item_name": "Ambulance - Gold Plan",
+        "limit_type": "fixed_amount",
+        "limit_value": 2000,
+        "applies_to": "per_claim",
+        "description": "Rs.2,000 per hospitalization",
+        "page_number": 4
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Gold Plan (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 1500,
+        "applies_to": "per_year",
+        "description": "Rs.1,500 for every claim free year",
+        "page_number": 4
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Gold Plan (SI Rs.10-15L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 2500,
+        "applies_to": "per_year",
+        "description": "Rs.2,500 for every claim free year",
+        "page_number": 4
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Health Checkup - Gold Plan (SI Rs.20-25L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 5000,
+        "applies_to": "per_year",
+        "description": "Rs.5,000 for every claim free year",
+        "page_number": 4
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Cataract - Gold Plan (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 40000,
+        "applies_to": "per_year",
+        "description": "Rs.30,000 per eye, max Rs.40,000 per person per policy period",
+        "page_number": 4
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Cataract - Gold Plan (SI Rs.10-15L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 50000,
+        "applies_to": "per_year",
+        "description": "Rs.40,000 per eye, max Rs.50,000 per person per policy period",
+        "page_number": 4
+      },
+      {
+        "limit_category": "disease_specific",
+        "item_name": "Cataract - Gold Plan (SI Rs.20-25L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 60000,
+        "applies_to": "per_year",
+        "description": "Rs.45,000 per eye, max Rs.60,000 per person per policy period",
+        "page_number": 4
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Shared Accommodation - Gold Plan (SI Rs.3-5L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 500,
+        "applies_to": "per_day",
+        "description": "Rs.500 per day, max Rs.3,000 per hospitalization for stays exceeding 48 hours",
+        "page_number": 4
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Shared Accommodation - Gold Plan (SI Rs.10-25L)",
+        "limit_type": "fixed_amount",
+        "limit_value": 1000,
+        "applies_to": "per_day",
+        "description": "Rs.1,000 per day, max Rs.6,000 per hospitalization for stays exceeding 48 hours",
+        "page_number": 4
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "New Born Baby - Gold Plan",
+        "limit_type": "percentage",
+        "limit_value": 10,
+        "applies_to": "per_year",
+        "description": "10% of Basic Sum Insured or Rs.50,000, whichever is less",
+        "page_number": 5
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Patient Care",
+        "limit_type": "fixed_amount",
+        "limit_value": 400,
+        "applies_to": "per_day",
+        "description": "Rs.400 per day for up to 5 days per occurrence and 14 days per policy period. Age 60+ only",
+        "page_number": 5
+      },
+      {
+        "limit_category": "hospitalization",
+        "item_name": "Hospital Cash",
+        "limit_type": "fixed_amount",
+        "limit_value": 1000,
+        "applies_to": "per_day",
+        "description": "Rs.1,000 per completed day, max 7 days per hospitalization and 14 days per policy period",
+        "page_number": 5
+      }
+    ],
+    "copay_conditions": [
+      {
+        "condition_trigger": "age_based",
+        "trigger_value": "61 years and above at entry",
+        "copay_percentage": 10,
+        "description": "10% co-payment on each and every claim for insured persons whose age at time of entry is 61 years and above. Does not apply to those who entered before 61 and renew continuously",
+        "page_number": 5
+      }
+    ]
+  },
+  "additional_benefits": {
+    "cumulative_bonus": {
+      "base_plan": {
+        "accrual_rate": "5% per claim free year",
+        "maximum_bonus": "25%",
+        "notes": "Reduces at same rate if claim made"
+      },
+      "gold_plan": {
+        "accrual_rate": "25% in 2nd year, additional 20% each subsequent year",
+        "maximum_bonus": "100%",
+        "notes": "Reduces at same rate if claim made"
+      }
+    },
+    "automatic_restoration": {
+      "available": true,
+      "restoration_percentage": 200,
+      "frequency": "Once per policy period",
+      "conditions": "Available upon exhaustion of limit of coverage. Can be used only for unrelated illness/disease. Cannot be carried forward. Not available for Modern Treatment"
+    },
+    "super_restoration": {
+      "available": true,
+      "plan": "Gold Plan only",
+      "restoration_percentage": 100,
+      "frequency": "Once per policy period",
+      "conditions": "Available upon exhaustion of limit of coverage. Can be used even for same illness/disease. Cannot be carried forward. Not available for Modern Treatment"
+    },
+    "moratorium_period": {
+      "duration_months": 60,
+      "description": "After 60 continuous months of coverage (including portability and migration), no policy/claim contestable except on grounds of established fraud",
+      "applicable_to": "First policy sum insured. For enhanced SI, 60 months from enhancement date on enhanced limits only"
+    }
+  },
+  "claim_procedures": {
+    "cashless": {
+      "available": true,
+      "network_hospitals": "Available in networked hospitals only. List at www.starhealth.in",
+      "preauthorization_required": true,
+      "emergency_intimation_time": "Within 24 hours after hospitalization",
+      "helpline": "044-69006900 or Toll Free 1800 425 2255. Senior Citizens: 044-40020888",
+      "documents_required": [
+        "ID Card at Hospital Helpdesk",
+        "Pre-authorisation Form completed",
+        "KYC (Identity proof with Address) as per AML Guidelines"
+      ]
+    },
+    "reimbursement": {
+      "available": true,
+      "claim_intimation_time": "Within 24 hours from occurrence",
+      "claim_submission_time": {
+        "hospitalization": "Within 15 days from date of discharge",
+        "post_hospitalization": "Within 15 days after completion of 60 days from discharge"
+      },
+      "documents_required": [
+        "Duly completed claim form",
+        "Pre Admission investigations and treatment papers",
+        "Discharge Summary from hospital",
+        "Cash receipts from hospital, chemists",
+        "Cash receipts and reports for tests",
+        "Receipts from doctors, surgeons, anesthetist",
+        "Certificate from attending doctor regarding diagnosis",
+        "KYC (Identity proof with Address) as per AML Guidelines",
+        "NEFT documents (Customer name, Bank Account No., Name of Bank, IFSC code)",
+        "CKYC No. of proposer (if available)"
+      ]
+    }
+  },
+  "policy_conditions": {
+    "grace_period": {
+      "monthly_premium": "15 days",
+      "other_modes": "30 days",
+      "coverage_during_grace": "Yes, if premium paid in instalments during policy period"
+    },
+    "free_look_period": {
+      "duration_days": 30,
+      "applicable_to": "New individual policies only, not renewals or portability",
+      "refund_conditions": "Refund of premium less medical examination expenses and stamp duty; or proportionate risk premium if risk commenced; or proportionate premium if part coverage commenced"
+    },
+    "renewal": {
+      "guaranteed": true,
+      "conditions": "Cannot be denied based on claims in preceding years. Request with premium must be received before policy end. Can be renewed within 30 days grace period. No loading based on individual claims experience"
+    },
+    "portability": {
+      "available": true,
+      "notice_period": "At least 30 days before, not earlier than 60 days from renewal date",
+      "continuity_benefits": "Accrued waiting period benefits transferred as per IRDAI guidelines"
+    },
+    "migration": {
+      "available": true,
+      "notice_period": "At least 30 days before renewal date",
+      "continuity_benefits": "Accrued waiting period benefits transferred as per IRDAI guidelines"
+    },
+    "cancellation": {
+      "by_policyholder": "7 days written notice. Proportionate premium refund if policy ≤1 year and no claims. Premium refund for unexpired years if policy >1 year and risk not commenced",
+      "by_insurer": "15 days written notice on grounds of misrepresentation, non-disclosure, fraud. No premium refund"
+    },
+    "territorial_limit": "All treatments must be taken in India"
+  },
+  "premium_payment": {
+    "modes": [
+      "Monthly",
+      "Quarterly",
+      "Half-yearly",
+      "Annual"
+    ],
+    "instalment_conditions": "In event of claim, all subsequent premium instalments immediately become due and payable. Company can recover pending instalments from claim amount. No interest charged if instalment not paid on due date. Policy cancelled if instalment not paid within grace period"
+  },
+  "grievance_redressal": {
+    "company_contact": {
+      "website": "www.starhealth.in",
+      "email": "gro@starhealth.in, grievances@starhealth.in",
+      "phone": "044-69006900",
+      "toll_free": "1800 425 2255",
+      "grievance_officer": "044-43664600",
+      "address": "Star Health and Allied Insurance Company Limited, 4th Floor, Balaji Complex, No.15, Whites Lane, Whites Road, Royapettah, Chennai - 600014"
+    },
+    "ombudsman": {
+      "available": true,
+      "online_portal": "https://bimabharosa.irdai.gov.in/"
+    }
+  },
+  "family_package_plan": {
+    "available": true,
+    "applicable_coverage": "II Coverage only (not Gold Plan)",
+    "sum_insured_options": [
+      200000,
+      300000
+    ],
+    "age_band": "5 months to 45 years",
+    "family_definition": "Insured Person, spouse and dependent children not exceeding 2 in number",
+    "sum_insured_allocation": "Equally apportioned among all insured persons",
+    "conditions": [
+      "Each family member covered up to his/her limit only",
+      "No transfer of unutilized balance to other insured persons",
+      "Health check-up benefit calculated on policy SI and equally divided",
+      "If member makes claim, not eligible for their share of health check-up benefit",
+      "Automatic restoration not applicable for this plan"
+    ]
+  },
+  "non_payable_items": {
+    "subsumed_in_room_charges": [
+      "Baby charges (unless specified)",
+      "Hand wash",
+      "Shoe cover",
+      "Caps",
+      "Cradle charges",
+      "Comb",
+      "Eau-de-cologne/Room fresheners",
+      "Foot cover",
+      "Gown",
+      "Slippers",
+      "Tissue paper",
+      "Tooth paste",
+      "Tooth brush",
+      "Bed pan",
+      "Face mask",
+      "Flexi mask",
+      "Hand holder",
+      "Sputum cup",
+      "Disinfectant lotions",
+      "Luxury tax",
+      "HVAC",
+      "House keeping charges",
+      "Air conditioner charges",
+      "IM IV injection charges",
+      "Clean sheet",
+      "Blanket/Warmer blanket",
+      "Admission kit",
+      "Diabetic chart charges",
+      "Documentation charges/Administrative expenses",
+      "Discharge procedure charges",
+      "Daily chart charges",
+      "Entrance pass/Visitors pass charges",
+      "Expenses related to prescription on discharge",
+      "File opening charges",
+      "Incidental expenses/Misc. charges (not explained)",
+      "Patient identification band/Name tag",
+      "Pulseoxymeter charges"
+    ],
+    "subsumed_in_treatment_costs": [
+      "Admission/Registration charges",
+      "Hospitalisation for evaluation/diagnostic purpose",
+      "Urine container",
+      "Blood reservation charges and ante natal booking charges",
+      "BIPAP machine",
+      "CPAP/CAPD equipments",
+      "Infusion pump - cost",
+      "Hydrogen peroxide/Spirit/Disinfectants etc",
+      "Nutrition planning charges - Dietician charges - Diet charges",
+      "HIV kit",
+      "Antiseptic mouthwash",
+      "Lozenges",
+      "Mouth paint",
+      "Vaccination charges",
+      "Alcohol swabs",
+      "Scrub solution/Sterillium",
+      "Glucometer & strips",
+      "Urine bag"
+    ],
+    "subsumed_in_procedure_charges": [
+      "Hair removal cream",
+      "Disposable razors charges (for site preparations)",
+      "Eye pad",
+      "Eye shield",
+      "Camera cover",
+      "DVD, CD charges",
+      "Gauze soft",
+      "Gauze",
+      "Ward and theatre booking charges",
+      "Arthroscopy and endoscopy instruments",
+      "Microscope cover",
+      "Surgical blades, harmonic scalpel, shaver",
+      "Surgical drill",
+      "Eye kit",
+      "Eye drape",
+      "X-ray film",
+      "Boyles apparatus charges",
+      "Cotton",
+      "Cotton bandage",
+      "Surgical tape",
+      "Apron",
+      "Tourniquet",
+      "Orthobundle, Gynaec bundle"
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+  POLICY COMPARISON  –  HealIN
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
+  Legend:  ◆ = values differ   |   — = not stated in document
+
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  POLICY IDENTITY
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭───────────────────────┬───────────────────────────────────────┬──────────────────────────────────────╮
+│ Feature               │ Easy Health (Exclusive)               │ Medi Classic Insurance Policy        │
+│                       │                                       │ (Individual) (Base Plan)             │
+├───────────────────────┼───────────────────────────────────────┼──────────────────────────────────────┤
+│ Insurer ◆             │ HDFC ERGO General Insurance Company   │ Star Health and Allied Insurance     │
+│                       │ Limited                               │ Company Limited                      │
+│ Policy Name ◆         │ Easy Health                           │ Medi Classic Insurance Policy        │
+│                       │                                       │ (Individual)                         │
+│ Variant / Plan ◆      │ Exclusive                             │ Base Plan                            │
+│ Policy Type ◆         │ Individual/Family Floater             │ Individual                           │
+│ Sum Insured Range ◆   │ Rs.3L – Rs.5L                         │ Rs.1.5L – Rs.2.5L                    │
+│ Sum Insured Options ◆ │ Rs.3L, Rs.4L, Rs.5L, Rs.7.5L, Rs.1Cr, │ Rs.1.5L, Rs.2L, Rs.3L, Rs.4L, Rs.5L, │
+│                       │ Rs.1.5Cr, Rs.2Cr, Rs.2.5Cr, Rs.5Cr    │ Rs.1Cr, Rs.1.5Cr, Rs.2Cr, Rs.2.5Cr   │
+╰───────────────────────┴───────────────────────────────────────┴──────────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CORE HOSPITALISATION
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭─────────────────────────┬───────────────────────────┬─────────────────────────────────╮
+│ Feature                 │ Easy Health (Exclusive)   │ Medi Classic Insurance Policy   │
+│                         │                           │ (Individual) (Base Plan)        │
+├─────────────────────────┼───────────────────────────┼─────────────────────────────────┤
+│ Inpatient Cover         │ Up to sum insured         │ Up to sum insured               │
+│ Pre-Hospitalisation ◆   │ 60 days                   │ 30 days                         │
+│ Post-Hospitalisation ◆  │ 90 days                   │ 60 days                         │
+│ Day-Care Procedures     │ Yes                       │ Yes                             │
+│ Domiciliary Treatment ◆ │ Yes  (min 3 days)         │ No                              │
+│ AYUSH Treatment ◆       │ Yes Up to sum insured     │ —                               │
+│ Organ Donor Expenses ◆  │ Yes                       │ —                               │
+╰─────────────────────────┴───────────────────────────┴─────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ROOM RENT & LIMITS
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭────────────────┬───────────────────────────────────────┬────────────────────────────────────────╮
+│ Feature        │ Easy Health (Exclusive)               │ Medi Classic Insurance Policy          │
+│                │                                       │ (Individual) (Base Plan)               │
+├────────────────┼───────────────────────────────────────┼────────────────────────────────────────┤
+│ Room Rent ◆    │ No sub-limit (reasonable & customary) │ 2.00% of SI/day (max Rs.5K)            │
+│ ICU Coverage ◆ │ ICU bed, nursing, monitoring,         │ Covered under ICU Charges - includes   │
+│                │ intensivist charges                   │ ICU bed, general medical support       │
+│                │                                       │ services, monitoring devices, critical │
+│                │                                       │ care nursing and intensivist charges   │
+│ Deductible     │ No                                    │ No                                     │
+│ Co-payment     │ No                                    │ No                                     │
+╰────────────────┴───────────────────────────────────────┴────────────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  AMBULANCE
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭──────────────────┬─────────────────────────────────────┬─────────────────────────────────╮
+│ Feature          │ Easy Health (Exclusive)             │ Medi Classic Insurance Policy   │
+│                  │                                     │ (Individual) (Base Plan)        │
+├──────────────────┼─────────────────────────────────────┼─────────────────────────────────┤
+│ Road Ambulance ◆ │ Yes  Rs.2K/hosp                     │ Yes  Rs.750/hosp, Rs.1K/yr      │
+│ Air Ambulance ◆  │ Yes Rs.2.5L per hospitalisation (SI │ No                              │
+│                  │ Rs.3L+)                             │                                 │
+╰──────────────────┴─────────────────────────────────────┴─────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  WAITING PERIODS
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭─────────────────────────────┬──────────────────────────────────────┬──────────────────────────────────────╮
+│ Feature                     │ Easy Health (Exclusive)              │ Medi Classic Insurance Policy        │
+│                             │                                      │ (Individual) (Base Plan)             │
+├─────────────────────────────┼──────────────────────────────────────┼──────────────────────────────────────┤
+│ Initial Waiting Period      │ 30 days                              │ 30 days                              │
+│ Pre-Existing Diseases (PED) │ 3 years  (reducible via portability) │ 3 years  (reducible via portability) │
+│ Specific Disease Waiting    │ 2 years                              │ 2 years                              │
+╰─────────────────────────────┴──────────────────────────────────────┴──────────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ADDITIONAL BENEFITS
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭──────────────────────────────────┬────────────────────────────────────────┬────────────────────────────────────────╮
+│ Feature                          │ Easy Health (Exclusive)                │ Medi Classic Insurance Policy          │
+│                                  │                                        │ (Individual) (Base Plan)               │
+├──────────────────────────────────┼────────────────────────────────────────┼────────────────────────────────────────┤
+│ Maternity & Newborn ◆            │ Normal: Rs.15K C-section: Rs.25K       │ Not covered                            │
+│                                  │ Waiting: 6 years Max 2 deliveries      │                                        │
+│                                  │ Newborn: Rs.2K                         │                                        │
+│ Critical Illness ◆               │ Yes 50% or 100% of In-patient Sum      │ No                                     │
+│                                  │ Insured, minimum Rs.1 lakh, maximum    │                                        │
+│                                  │ Rs.10 lakhs Waiting: 90 days           │                                        │
+│ Mental Health Cover              │ —                                      │ —                                      │
+│ OPD Cover                        │ No                                     │ No                                     │
+│ Restoration / Recharge Benefit ◆ │ Not covered                            │ 200% of SI restored Once per policy    │
+│                                  │                                        │ period Only for different illness 200% │
+│                                  │                                        │ of SI, once per policy period,         │
+│                                  │                                        │ unrelated illness only                 │
+│ No-Claim / Cumulative Bonus ◆    │ 10% of Base Sum Insured per policy     │ 5% per claim free year Max: 25%        │
+│                                  │ year Max: 100% Does not reduce on      │ Reduces at same rate if claim made     │
+│                                  │ claim                                  │                                        │
+│ Preventive Health Checkup ◆      │ Yes 1% of SI, max Rs.5,000 per person  │ Yes 1% of avg SI, max Rs.5,000  After  │
+│                                  │ Every 3 years                          │ 4 claim-free years (SI ≥ Rs.2L)        │
+│ Wellness Benefits ◆              │ Yes Stay Active Discount (up to 8% via │ No                                     │
+│                                  │ step count), Preventive Health Checkup │                                        │
+│ International Cover              │ No                                     │ No                                     │
+│ Moratorium Period                │ 5 years                                │ 5 years                                │
+╰──────────────────────────────────┴────────────────────────────────────────┴────────────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CLAIM PROCESS
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭───────────────────┬───────────────────────────────────────┬───────────────────────────────────────╮
+│ Feature           │ Easy Health (Exclusive)               │ Medi Classic Insurance Policy         │
+│                   │                                       │ (Individual) (Base Plan)              │
+├───────────────────┼───────────────────────────────────────┼───────────────────────────────────────┤
+│ Cashless Claims ◆ │ Yes Planned: At least 48 hours before │ Yes Planned: Required Emergency:      │
+│                   │ planned treatment or hospitalization  │ Within 24 hours after hospitalization │
+│                   │ Emergency: Within 24 hours after      │                                       │
+│                   │ treatment or hospitalization          │                                       │
+│ Reimbursement ◆   │ Yes                                   │ Yes  Submit within 15 days of         │
+│                   │                                       │ discharge                             │
+│ Claim Helpline ◆  │ 022-62346234 / 0120-62346234          │ 044-69006900 or Toll Free 1800 425    │
+│                   │                                       │ 2255. Senior Citizens: 044-40020888   │
+╰───────────────────┴───────────────────────────────────────┴───────────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  POLICY CONDITIONS
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭───────────────────────┬──────────────────────────────────────┬───────────────────────────────────────╮
+│ Feature               │ Easy Health (Exclusive)              │ Medi Classic Insurance Policy         │
+│                       │                                      │ (Individual) (Base Plan)              │
+├───────────────────────┼──────────────────────────────────────┼───────────────────────────────────────┤
+│ Free Look Period      │ 30 days                              │ 30 days                               │
+│ Grace Period          │ Monthly: 15 days; Others: 30 days    │ Monthly: 15 days; Others: 30 days     │
+│ Guaranteed Renewal    │ Yes                                  │ Yes                                   │
+│ Portability           │ Yes                                  │ Yes                                   │
+│ Geographic Coverage ◆ │ All medical treatment must be taken  │ All treatments must be taken in India │
+│                       │ within India. All payments in Indian │                                       │
+│                       │ Rupees within India                  │                                       │
+╰───────────────────────┴──────────────────────────────────────┴───────────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  PREMIUM & DISCOUNTS
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭───────────────────────────────────┬────────────────────────────────────┬─────────────────────────────────╮
+│ Feature                           │ Easy Health (Exclusive)            │ Medi Classic Insurance Policy   │
+│                                   │                                    │ (Individual) (Base Plan)        │
+├───────────────────────────────────┼────────────────────────────────────┼─────────────────────────────────┤
+│ Premium Payment Modes ◆           │ Monthly, Quarterly, Half-yearly,   │ —                               │
+│                                   │ Annual, Multi-year (2 years)       │                                 │
+│ Family Discount ◆                 │ two members: 5%; three or more     │ —                               │
+│                                   │ members: 10%                       │                                 │
+│ Long-Term / Multi-year Discount ◆ │ 7.5% if paying 2-year premium in   │ —                               │
+│                                   │ advance as single premium          │                                 │
+│ Other Discounts ◆                 │ Floater: 55% on all members except │ —                               │
+│                                   │ oldest member                      │                                 │
+╰───────────────────────────────────┴────────────────────────────────────┴─────────────────────────────────╯
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+  EXCLUSIONS COMPARISON
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭────────────────────────────────┬─────────────────────────────────────────┬─────────────────────────────────────────╮
+│ Exclusion                      │ Easy Health (Exclusive)                 │ Medi Classic Insurance Policy           │
+│                                │                                         │ (Individual) (Base Plan)                │
+├────────────────────────────────┼─────────────────────────────────────────┼─────────────────────────────────────────┤
+│ 30-day Waiting Period - Code   │ — Not listed                            │ Excluded                                │
+│ Excl 03                        │                                         │   Exception: Does not apply for         │
+│                                │                                         │ accidents or if insured                 │
+│                                │                                         │ has continuous coverage                 │
+│                                │                                         │ for more than 12 months.                │
+│                                │                                         │ Not applicable to enhanced              │
+│                                │                                         │ sum insured.                            │
+│ 30-day Waiting Period - Code   │ Excluded                                │ — Not listed                            │
+│ Excl03                         │   Exception: Does not apply for         │                                         │
+│                                │ accidents or if insured                 │                                         │
+│                                │ has continuous coverage                 │                                         │
+│                                │ for more than 12 months.                │                                         │
+│                                │ Applies to enhanced sum                 │                                         │
+│                                │ insured                                 │                                         │
+│ Alcoholism, Drug or Substance  │ Excluded                                │ — Not listed                            │
+│ Abuse - Code Excl12            │                                         │                                         │
+│ Alcoholism, Drug/Substance     │ — Not listed                            │ Excluded                                │
+│ Abuse - Code Excl 12           │                                         │                                         │
+│ Alternative Therapies - Code   │ — Not listed                            │ Excluded                                │
+│ Excl 26                        │                                         │                                         │
+│ Biologicals - Code Excl 29     │ — Not listed                            │ Excluded                                │
+│                                │                                         │   Exception: Covered when administered  │
+│                                │                                         │ as in-patient, when                     │
+│                                │                                         │ clinically indicated and                │
+│                                │                                         │ hospitalization warranted               │
+│ Breach of Law - Code Excl 10   │ — Not listed                            │ Excluded                                │
+│ Breach of Law - Code Excl10    │ Excluded                                │ — Not listed                            │
+│ Certain Regenerative           │ — Not listed                            │ Excluded                                │
+│ Procedures - Code Excl 28      │                                         │                                         │
+│ Change-of-Gender Treatments -  │ — Not listed                            │ Excluded                                │
+│ Code Excl 07                   │                                         │                                         │
+│ Change-of-Gender Treatments -  │ Excluded                                │ — Not listed                            │
+│ Code Excl07                    │                                         │                                         │
+│ Circumcision                   │ Excluded                                │ — Not listed                            │
+│                                │   Exception: Covered if necessitated by │                                         │
+│                                │ illness or injury and                   │                                         │
+│                                │ forming part of treatment               │                                         │
+│ Circumcision - Code Excl 19    │ — Not listed                            │ Excluded                                │
+│                                │                                         │   Exception: Covered if necessary for   │
+│                                │                                         │ treatment of disease not                │
+│                                │                                         │ excluded or necessitated                │
+│                                │                                         │ due to accident                         │
+│ Congenital External Condition  │ — Not listed                            │ Excluded                                │
+│ - Code Excl 20                 │                                         │                                         │
+│ Congenital External Diseases   │ Excluded                                │ — Not listed                            │
+│ Convalescence, General         │ — Not listed                            │ Excluded                                │
+│ Debility - Code Excl 21        │                                         │                                         │
+│ Cosmetic or Plastic Surgery -  │ — Not listed                            │ Excluded                                │
+│ Code Excl 08                   │                                         │   Exception: Covered if for             │
+│                                │                                         │ reconstruction following                │
+│                                │                                         │ Accident, Burns or Cancer,              │
+│                                │                                         │ or as part of medically                 │
+│                                │                                         │ necessary treatment to                  │
+│                                │                                         │ remove direct and                       │
+│                                │                                         │ immediate health risk                   │
+│                                │                                         │ (must be certified by                   │
+│                                │                                         │ attending Medical                       │
+│                                │                                         │ Practitioner)                           │
+│ Cosmetic or Plastic Surgery -  │ Excluded                                │ — Not listed                            │
+│ Code Excl08                    │   Exception: Covered if for             │                                         │
+│                                │ reconstruction following                │                                         │
+│                                │ Accident, Burns or Cancer,              │                                         │
+│                                │ or as part of medically                 │                                         │
+│                                │ necessary treatment to                  │                                         │
+│                                │ remove direct and                       │                                         │
+│                                │ immediate health risk                   │                                         │
+│                                │ (must be certified by                   │                                         │
+│                                │ attending Medical                       │                                         │
+│                                │ Practitioner)                           │                                         │
+│ Dental Treatment               │ Excluded                                │ — Not listed                            │
+│                                │   Exception: Covered if requiring       │                                         │
+│                                │ hospitalization                         │                                         │
+│ Dietary Supplements - Code     │ — Not listed                            │ Excluded                                │
+│ Excl 14                        │                                         │   Exception: Covered if prescribed by   │
+│                                │                                         │ medical practitioner as                 │
+│                                │                                         │ part of hospitalization                 │
+│                                │                                         │ claim or day care                       │
+│                                │                                         │ procedure                               │
+│ Dietary Supplements - Code     │ Excluded                                │ — Not listed                            │
+│ Excl14                         │   Exception: Covered if prescribed by   │                                         │
+│                                │ medical practitioner as                 │                                         │
+│                                │ part of hospitalization                 │                                         │
+│                                │ claim or day care                       │                                         │
+│                                │ procedure                               │                                         │
+│ Excluded Providers - Code Excl │ — Not listed                            │ Excluded                                │
+│ 11                             │                                         │   Exception: In life threatening        │
+│                                │                                         │ situations or following                 │
+│                                │                                         │ accident, expenses up to                │
+│                                │                                         │ stabilization stage                     │
+│                                │                                         │ payable but not complete                │
+│                                │                                         │ claim                                   │
+│ Excluded Providers - Code      │ Excluded                                │ — Not listed                            │
+│ Excl11                         │   Exception: In life threatening        │                                         │
+│                                │ situations or following                 │                                         │
+│                                │ accident, expenses up to                │                                         │
+│                                │ stabilization stage                     │                                         │
+│                                │ payable but not complete                │                                         │
+│                                │ claim                                   │                                         │
+│ Hazardous or Adventure Sports  │ — Not listed                            │ Excluded                                │
+│ - Code Excl 09                 │                                         │                                         │
+│ Hazardous or Adventure Sports  │ Excluded                                │ — Not listed                            │
+│ - Code Excl09                  │                                         │                                         │
+│ Health Hydros, Nature Cure     │ — Not listed                            │ Excluded                                │
+│ Clinics, Spas - Code Excl 13   │                                         │                                         │
+│ Health Hydros, Nature Cure     │ Excluded                                │ — Not listed                            │
+│ Clinics, Spas - Code Excl13    │                                         │                                         │
+│ Hearing Aids, Spectacles,      │ Excluded                                │ — Not listed                            │
+│ Contact Lenses                 │                                         │                                         │
+│ Hospital Administrative        │ — Not listed                            │ Excluded                                │
+│ Charges - Code Excl 34         │                                         │                                         │
+│ Inoculation/Vaccination - Code │ — Not listed                            │ Excluded                                │
+│ Excl 31                        │                                         │   Exception: Covered for post-bite      │
+│                                │                                         │ treatment and for medical               │
+│                                │                                         │ treatment for therapeutic               │
+│                                │                                         │ reasons                                 │
+│ Intentional Self Injury        │ Excluded                                │ — Not listed                            │
+│ Intentional Self-Injury - Code │ — Not listed                            │ Excluded                                │
+│ Excl 22                        │                                         │                                         │
+│ Intra-articular/Intra-lesional │ Excluded                                │ — Not listed                            │
+│ Injections                     │                                         │                                         │
+│ Investigation & Evaluation -   │ — Not listed                            │ Excluded                                │
+│ Code Excl 04                   │                                         │                                         │
+│ Investigation & Evaluation -   │ Excluded                                │ — Not listed                            │
+│ Code Excl04                    │                                         │                                         │
+│ Maternity - Code Excl 18       │ — Not listed                            │ Excluded                                │
+│                                │                                         │   Exception: Ectopic pregnancy covered  │
+│ Maternity - Code Excl18        │ Excluded                                │ — Not listed                            │
+│                                │   Exception: Ectopic pregnancy covered. │                                         │
+│                                │ Covered to extent provided              │                                         │
+│                                │ under Section B.1.3.a) if               │                                         │
+│                                │ maternity benefit opted                 │                                         │
+│ Medical Devices and Aids -     │ — Not listed                            │ Excluded                                │
+│ Code Excl 35                   │                                         │                                         │
+│ Medically Unnecessary          │ — Not listed                            │ Excluded                                │
+│ Hospitalization - Code Excl 36 │                                         │                                         │
+│ Military Operations            │ Excluded                                │ — Not listed                            │
+│ Non-Allopathic Treatment       │ Excluded                                │ — Not listed                            │
+│                                │   Exception: Covered to extent of AYUSH │                                         │
+│                                │ benefit                                 │                                         │
+│ Non-Hospital Treatment         │ Excluded                                │ — Not listed                            │
+│ Non-Medical Expenses           │ Excluded                                │ — Not listed                            │
+│ Not Medically Necessary        │ Excluded                                │ — Not listed                            │
+│ Nuclear Weapons - Code Excl 25 │ — Not listed                            │ Excluded                                │
+│ Obesity/Weight Control - Code  │ — Not listed                            │ Excluded                                │
+│ Excl 06                        │                                         │   Exception: Covered if: conducted upon │
+│                                │                                         │ doctor's advice, supported              │
+│                                │                                         │ by clinical protocols,                  │
+│                                │                                         │ member 18+ years, BMI ≥40               │
+│                                │                                         │ or ≥35 with severe co-                  │
+│                                │                                         │ morbidities (obesity-                   │
+│                                │                                         │ related cardiomyopathy,                 │
+│                                │                                         │ coronary heart disease,                 │
+│                                │                                         │ severe sleep apnea,                     │
+│                                │                                         │ uncontrolled Type2                      │
+│                                │                                         │ Diabetes) after failure of              │
+│                                │                                         │ less invasive methods                   │
+│ Obesity/Weight Control - Code  │ Excluded                                │ — Not listed                            │
+│ Excl06                         │   Exception: Covered if: upon doctor's  │                                         │
+│                                │ advice, supported by                    │                                         │
+│                                │ clinical protocols, member              │                                         │
+│                                │ 18+ years, BMI ≥40 or ≥35               │                                         │
+│                                │ with severe co-morbidities              │                                         │
+│                                │ (obesity-related                        │                                         │
+│                                │ cardiomyopathy, coronary                │                                         │
+│                                │ heart disease, severe                   │                                         │
+│                                │ sleep apnea, uncontrolled               │                                         │
+│                                │ Type2 Diabetes) after                   │                                         │
+│                                │ failure of less invasive                │                                         │
+│                                │ methods                                 │                                         │
+│ Organ Donation by Insured      │ Excluded                                │ — Not listed                            │
+│ Other Excluded Expenses - Code │ — Not listed                            │ Excluded                                │
+│ Excl 37                        │                                         │                                         │
+│ Outpatient Treatment           │ Excluded                                │ — Not listed                            │
+│ Permanent Exclusion - Code     │ — Not listed                            │ Excluded                                │
+│ Excl 38                        │                                         │                                         │
+│ Pre-Existing Diseases - Code   │ — Not listed                            │ Excluded                                │
+│ Excl 01                        │                                         │   Exception: Coverage after 36 months   │
+│                                │                                         │ subject to declaration at               │
+│                                │                                         │ application and acceptance              │
+│                                │                                         │ by insurer. Waiting period              │
+│                                │                                         │ reduced by prior coverage               │
+│                                │                                         │ under portability.                      │
+│ Pre-Existing Diseases - Code   │ Excluded                                │ — Not listed                            │
+│ Excl01                         │   Exception: Waiting period reduced by  │                                         │
+│                                │ prior coverage under                    │                                         │
+│                                │ portability/migration.                  │                                         │
+│                                │ Coverage after 36 months                │                                         │
+│                                │ subject to declaration and              │                                         │
+│                                │ acceptance. In case of SI               │                                         │
+│                                │ enhancement, exclusion                  │                                         │
+│                                │ applies afresh to enhanced              │                                         │
+│                                │ amount                                  │                                         │
+│ Preventive Care                │ Excluded                                │ — Not listed                            │
+│                                │   Exception: Covered in case of post-   │                                         │
+│                                │ bite treatment                          │                                         │
+│ Prosthetic Devices             │ Excluded                                │ — Not listed                            │
+│ Refractive Error - Code Excl   │ — Not listed                            │ Excluded                                │
+│ 15                             │                                         │                                         │
+│ Refractive Error - Code Excl15 │ Excluded                                │ — Not listed                            │
+│ Rest Cure, Rehabilitation and  │ — Not listed                            │ Excluded                                │
+│ Respite Care - Code Excl 05    │                                         │                                         │
+│ Rest Cure, Rehabilitation and  │ Excluded                                │ — Not listed                            │
+│ Respite Care - Code Excl05     │                                         │                                         │
+│ Sleep Apnoea                   │ Excluded                                │ — Not listed                            │
+│ Specified Disease/Procedure    │ — Not listed                            │ Excluded                                │
+│ Waiting Period - Code Excl 02  │                                         │   Exception: Does not apply for claims  │
+│                                │                                         │ arising due to accident.                │
+│                                │                                         │ Longer of two waiting                   │
+│                                │                                         │ periods applies if also                 │
+│                                │                                         │ covered under PED waiting.              │
+│                                │                                         │ Waiting period reduced by               │
+│                                │                                         │ prior coverage under                    │
+│                                │                                         │ portability.                            │
+│ Specified Disease/Procedure    │ Excluded                                │ — Not listed                            │
+│ Waiting Period - Code Excl02   │   Exception: Does not apply for claims  │                                         │
+│                                │ due to accident or if                   │                                         │
+│                                │ underlying cause is                     │                                         │
+│                                │ cancer. Waiting period                  │                                         │
+│                                │ reduced by prior coverage               │                                         │
+│                                │ under                                   │                                         │
+│                                │ portability/migration.                  │                                         │
+│                                │ Longer waiting period                   │                                         │
+│                                │ applies if also under PED               │                                         │
+│                                │ waiting. Applies even if                │                                         │
+│                                │ contracted after policy                 │                                         │
+│ Spinal Subluxation Treatment   │ Excluded                                │ — Not listed                            │
+│ Sterility and Infertility -    │ — Not listed                            │ Excluded                                │
+│ Code Excl 17                   │                                         │                                         │
+│ Sterility and Infertility -    │ Excluded                                │ — Not listed                            │
+│ Code Excl17                    │                                         │                                         │
+│ Time-bound/Lifetime Exclusions │ Excluded                                │ — Not listed                            │
+│                                │   Exception: As accepted by insured     │                                         │
+│ Treatment Outside Discipline   │ Excluded                                │ — Not listed                            │
+│ Treatment Outside India        │ Excluded                                │ — Not listed                            │
+│ Treatment by Family Member     │ Excluded                                │ — Not listed                            │
+│                                │   Exception: Proven material costs      │                                         │
+│                                │ eligible for reimbursement              │                                         │
+│ Unconventional/Untested/Experi │ — Not listed                            │ Excluded                                │
+│ mental Therapies - Code Excl   │                                         │                                         │
+│ 27                             │                                         │                                         │
+│ Unproven Treatments - Code     │ — Not listed                            │ Excluded                                │
+│ Excl 16                        │                                         │                                         │
+│ Unproven Treatments - Code     │ Excluded                                │ — Not listed                            │
+│ Excl16                         │                                         │                                         │
+│ Unsupported Drugs/Treatments   │ Excluded                                │ — Not listed                            │
+│ War - Code Excl 24             │ — Not listed                            │ Excluded                                │
+│ War and Related Activities     │ Excluded                                │ — Not listed                            │
+╰────────────────────────────────┴─────────────────────────────────────────┴─────────────────────────────────────────╯
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SUMMARY:  29 feature(s) differ  (◆ markers above)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╭──────────────┬────────────────────────────────────────────────────────────────╮
+│ Note         │ Detail                                                         │
+├──────────────┼────────────────────────────────────────────────────────────────┤
+│ — in a cell  │ Field absent in that policy's document.                        │
+│ Stale data   │ Check extraction dates; data >90 days may be outdated.         │
+│ Variant note │ Values reflect the selected variant/plan only.                 │
+│ Not advice   │ Informational only. Consult a certified advisor before buying. │
+╰──────────────┴────────────────────────────────────────────────────────────────╯
+══════════════════════════════════════════════════════════════════════════════════════════════════════════
