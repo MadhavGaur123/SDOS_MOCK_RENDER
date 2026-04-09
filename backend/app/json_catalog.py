@@ -3,7 +3,7 @@ from functools import lru_cache
 from pathlib import Path
 from uuid import NAMESPACE_URL, uuid5
 
-from comparison_pipeline.populate_v2 import (
+from  comparison_pipeline.populate_v2 import (
     _claim_proc_fields,
     _discounts_fields,
     _get_builder,
