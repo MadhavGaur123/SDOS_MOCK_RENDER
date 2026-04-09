@@ -26,7 +26,14 @@ from .store import ensure_json_file, read_json, write_json
 
 
 app = FastAPI(title="HealIN API", version="1.0.0")
+from fastapi.middleware.cors import CORSMiddleware
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://69d7bd30ba9af1d169894112--magenta-nougat-e21cb8.netlify.app/"],  # ← your Netlify URL
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=ALLOW_ORIGINS,
